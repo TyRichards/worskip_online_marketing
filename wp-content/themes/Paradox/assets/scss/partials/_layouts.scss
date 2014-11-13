@@ -10,8 +10,8 @@ body > header {
 // Top Header Section /////////////////////////////////////////////////////////////////
 
 .top-navbar {
-    padding-top: $space-lg;
-    padding-bottom: $space-lg;    
+    padding-top: $space-sm;
+    padding-bottom: $space-sm;    
 }
 
 .top-header {
@@ -24,8 +24,8 @@ body > header {
 // Masthead Section /////////////////////////////////////////////////////////////////
 
 .masthead {
-    padding-top: $space-sm;
-    padding-bottom: $space-lg;    
+    padding-top: 140px;
+    padding-bottom: 140px;    
 }
 
 // Body Content Section /////////////////////////////////////////////////////////////////
@@ -36,6 +36,13 @@ body > header {
     .masthead, .primary-content, .block-section {
         
     }    
+}
+
+// Block /////////////////////////////////////////////////////////////////
+
+.block {
+    padding-top: 150px;
+    padding-bottom: 150px;
 }
 
 // Primary Content Section /////////////////////////////////////////////////////////////////

@@ -1,5 +1,13 @@
 // Base Styles /////////////////////////////////////////////////////////////////
 
+.bg-light {
+    background-color: #ffffff;
+}
+
+.bg-dark {
+    background-color: $body-bg;
+}
+
 a, .button, .gform_button, .btn {
     @include transition(all 0.2s ease-in);  
     &:hover  {
@@ -190,7 +198,7 @@ header .navbar-brand {
 // Buttons /////////////////////////////////////////////////////////////////
 
 .btn, .button, .gform_button {
-    @include border-radius(50px);
+    @include border-radius(3px);
 }
 
 .body-content .btn {
@@ -234,7 +242,7 @@ border-color: $btn-secondary-border;
 
 .nav > .menu-item > a {
     font-weight: 500;
-    @include border-radius(50px);
+    @include border-radius(3px);
 }
 
 .navbar {
@@ -392,9 +400,9 @@ h1, h2, h3, h4, h5, h6 {
 
 // Links /////////////////////////////////////////////////////////////////
 
-.block {
-    display: block;
-}
+// .block {
+//     display: block;
+// }
 
 // Lists /////////////////////////////////////////////////////////////////
 
