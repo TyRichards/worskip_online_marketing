@@ -16,7 +16,7 @@ Template Name: Home
                 <div style="margin-top:25px">                    
                     <a href="#features" class="btn btn-lg btn-primary"><i class="fa fa-question-circle fa-left"></i> Why Worship Online?</a>
                     &nbsp;&nbsp;&nbsp;
-                    <a href="#pricing" class="btn btn-lg btn-primary">Start Free Trial <i class="fa fa-arrow-circle-right fa-right"></i></a>                    
+                    <a href="/pricing" class="btn btn-lg btn-primary">Start Learning Songs <i class="fa fa-arrow-circle-right fa-right"></i></a>                    
                 </div>              
             </div>
         </div>

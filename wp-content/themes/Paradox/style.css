@@ -2791,38 +2791,38 @@ textarea.input-lg,
 }
 
 /* line 56, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_buttons.scss */
-.btn-primary, .archive .page-title {
+.btn-primary, .archive .page-title, .gform_wrapper .gform_button, .more-link {
   color: white;
   background-color: #b700ba;
   border-color: #9e00a1;
 }
 /* line 448, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_mixins.scss */
-.btn-primary:hover, .archive .page-title:hover, .btn-primary:focus, .archive .page-title:focus, .btn-primary:active, .archive .page-title:active, .btn-primary.active, .archive .active.page-title {
+.btn-primary:hover, .archive .page-title:hover, .gform_wrapper .gform_button:hover, .more-link:hover, .btn-primary:focus, .archive .page-title:focus, .gform_wrapper .gform_button:focus, .more-link:focus, .btn-primary:active, .archive .page-title:active, .gform_wrapper .gform_button:active, .more-link:active, .btn-primary.active, .archive .active.page-title, .gform_wrapper .active.gform_button, .active.more-link {
   color: white;
   background-color: #8f0091;
   border-color: #620063;
 }
 /* line 456, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_mixins.scss */
-.open .btn-primary.dropdown-toggle, .open .archive .dropdown-toggle.page-title, .archive .open .dropdown-toggle.page-title {
+.open .btn-primary.dropdown-toggle, .open .archive .dropdown-toggle.page-title, .archive .open .dropdown-toggle.page-title, .open .gform_wrapper .dropdown-toggle.gform_button, .gform_wrapper .open .dropdown-toggle.gform_button, .open .dropdown-toggle.more-link {
   color: white;
   background-color: #8f0091;
   border-color: #620063;
 }
 /* line 461, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_mixins.scss */
-.btn-primary:active, .archive .page-title:active, .btn-primary.active, .archive .active.page-title {
+.btn-primary:active, .archive .page-title:active, .gform_wrapper .gform_button:active, .more-link:active, .btn-primary.active, .archive .active.page-title, .gform_wrapper .active.gform_button, .active.more-link {
   background-image: none;
 }
 /* line 465, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_mixins.scss */
-.open .btn-primary.dropdown-toggle, .open .archive .dropdown-toggle.page-title, .archive .open .dropdown-toggle.page-title {
+.open .btn-primary.dropdown-toggle, .open .archive .dropdown-toggle.page-title, .archive .open .dropdown-toggle.page-title, .open .gform_wrapper .dropdown-toggle.gform_button, .gform_wrapper .open .dropdown-toggle.gform_button, .open .dropdown-toggle.more-link {
   background-image: none;
 }
 /* line 471, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_mixins.scss */
-.btn-primary.disabled, .archive .disabled.page-title, .btn-primary.disabled:hover, .archive .disabled.page-title:hover, .btn-primary.disabled:focus, .archive .disabled.page-title:focus, .btn-primary.disabled:active, .archive .disabled.page-title:active, .btn-primary.disabled.active, .archive .disabled.active.page-title, .btn-primary[disabled], .archive [disabled].page-title, .btn-primary[disabled]:hover, .archive [disabled].page-title:hover, .btn-primary[disabled]:focus, .archive [disabled].page-title:focus, .btn-primary[disabled]:active, .archive [disabled].page-title:active, .btn-primary[disabled].active, .archive [disabled].active.page-title, fieldset[disabled] .btn-primary, fieldset[disabled] .archive .page-title, .archive fieldset[disabled] .page-title, fieldset[disabled] .btn-primary:hover, fieldset[disabled] .archive .page-title:hover, .archive fieldset[disabled] .page-title:hover, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .archive .page-title:focus, .archive fieldset[disabled] .page-title:focus, fieldset[disabled] .btn-primary:active, fieldset[disabled] .archive .page-title:active, .archive fieldset[disabled] .page-title:active, fieldset[disabled] .btn-primary.active, fieldset[disabled] .archive .active.page-title, .archive fieldset[disabled] .active.page-title {
+.btn-primary.disabled, .archive .disabled.page-title, .gform_wrapper .disabled.gform_button, .disabled.more-link, .btn-primary.disabled:hover, .archive .disabled.page-title:hover, .gform_wrapper .disabled.gform_button:hover, .disabled.more-link:hover, .btn-primary.disabled:focus, .archive .disabled.page-title:focus, .gform_wrapper .disabled.gform_button:focus, .disabled.more-link:focus, .btn-primary.disabled:active, .archive .disabled.page-title:active, .gform_wrapper .disabled.gform_button:active, .disabled.more-link:active, .btn-primary.disabled.active, .archive .disabled.active.page-title, .gform_wrapper .disabled.active.gform_button, .disabled.active.more-link, .btn-primary[disabled], .archive [disabled].page-title, .gform_wrapper [disabled].gform_button, [disabled].more-link, .btn-primary[disabled]:hover, .archive [disabled].page-title:hover, .gform_wrapper [disabled].gform_button:hover, [disabled].more-link:hover, .btn-primary[disabled]:focus, .archive [disabled].page-title:focus, .gform_wrapper [disabled].gform_button:focus, [disabled].more-link:focus, .btn-primary[disabled]:active, .archive [disabled].page-title:active, .gform_wrapper [disabled].gform_button:active, [disabled].more-link:active, .btn-primary[disabled].active, .archive [disabled].active.page-title, .gform_wrapper [disabled].active.gform_button, [disabled].active.more-link, fieldset[disabled] .btn-primary, fieldset[disabled] .archive .page-title, .archive fieldset[disabled] .page-title, fieldset[disabled] .gform_wrapper .gform_button, .gform_wrapper fieldset[disabled] .gform_button, fieldset[disabled] .more-link, fieldset[disabled] .btn-primary:hover, fieldset[disabled] .archive .page-title:hover, .archive fieldset[disabled] .page-title:hover, fieldset[disabled] .gform_wrapper .gform_button:hover, .gform_wrapper fieldset[disabled] .gform_button:hover, fieldset[disabled] .more-link:hover, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .archive .page-title:focus, .archive fieldset[disabled] .page-title:focus, fieldset[disabled] .gform_wrapper .gform_button:focus, .gform_wrapper fieldset[disabled] .gform_button:focus, fieldset[disabled] .more-link:focus, fieldset[disabled] .btn-primary:active, fieldset[disabled] .archive .page-title:active, .archive fieldset[disabled] .page-title:active, fieldset[disabled] .gform_wrapper .gform_button:active, .gform_wrapper fieldset[disabled] .gform_button:active, fieldset[disabled] .more-link:active, fieldset[disabled] .btn-primary.active, fieldset[disabled] .archive .active.page-title, .archive fieldset[disabled] .active.page-title, fieldset[disabled] .gform_wrapper .active.gform_button, .gform_wrapper fieldset[disabled] .active.gform_button, fieldset[disabled] .active.more-link {
   background-color: #b700ba;
   border-color: #9e00a1;
 }
 /* line 481, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_mixins.scss */
-.btn-primary .badge, .archive .page-title .badge {
+.btn-primary .badge, .archive .page-title .badge, .gform_wrapper .gform_button .badge, .more-link .badge {
   color: #b700ba;
   background-color: #fff;
 }
@@ -2902,38 +2902,38 @@ textarea.input-lg,
 }
 
 /* line 68, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_buttons.scss */
-.btn-success, .gform_wrapper .gform_button, .more-link {
+.btn-success {
   color: white;
   background-color: #51d15b;
   border-color: #3dcc48;
 }
 /* line 448, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_mixins.scss */
-.btn-success:hover, .gform_wrapper .gform_button:hover, .more-link:hover, .btn-success:focus, .gform_wrapper .gform_button:focus, .more-link:focus, .btn-success:active, .gform_wrapper .gform_button:active, .more-link:active, .btn-success.active, .gform_wrapper .active.gform_button, .active.more-link {
+.btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active {
   color: white;
   background-color: #34c53f;
   border-color: #2ba134;
 }
 /* line 456, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_mixins.scss */
-.open .btn-success.dropdown-toggle, .open .gform_wrapper .dropdown-toggle.gform_button, .gform_wrapper .open .dropdown-toggle.gform_button, .open .dropdown-toggle.more-link {
+.open .btn-success.dropdown-toggle {
   color: white;
   background-color: #34c53f;
   border-color: #2ba134;
 }
 /* line 461, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_mixins.scss */
-.btn-success:active, .gform_wrapper .gform_button:active, .more-link:active, .btn-success.active, .gform_wrapper .active.gform_button, .active.more-link {
+.btn-success:active, .btn-success.active {
   background-image: none;
 }
 /* line 465, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_mixins.scss */
-.open .btn-success.dropdown-toggle, .open .gform_wrapper .dropdown-toggle.gform_button, .gform_wrapper .open .dropdown-toggle.gform_button, .open .dropdown-toggle.more-link {
+.open .btn-success.dropdown-toggle {
   background-image: none;
 }
 /* line 471, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_mixins.scss */
-.btn-success.disabled, .gform_wrapper .disabled.gform_button, .disabled.more-link, .btn-success.disabled:hover, .gform_wrapper .disabled.gform_button:hover, .disabled.more-link:hover, .btn-success.disabled:focus, .gform_wrapper .disabled.gform_button:focus, .disabled.more-link:focus, .btn-success.disabled:active, .gform_wrapper .disabled.gform_button:active, .disabled.more-link:active, .btn-success.disabled.active, .gform_wrapper .disabled.active.gform_button, .disabled.active.more-link, .btn-success[disabled], .gform_wrapper [disabled].gform_button, [disabled].more-link, .btn-success[disabled]:hover, .gform_wrapper [disabled].gform_button:hover, [disabled].more-link:hover, .btn-success[disabled]:focus, .gform_wrapper [disabled].gform_button:focus, [disabled].more-link:focus, .btn-success[disabled]:active, .gform_wrapper [disabled].gform_button:active, [disabled].more-link:active, .btn-success[disabled].active, .gform_wrapper [disabled].active.gform_button, [disabled].active.more-link, fieldset[disabled] .btn-success, fieldset[disabled] .gform_wrapper .gform_button, .gform_wrapper fieldset[disabled] .gform_button, fieldset[disabled] .more-link, fieldset[disabled] .btn-success:hover, fieldset[disabled] .gform_wrapper .gform_button:hover, .gform_wrapper fieldset[disabled] .gform_button:hover, fieldset[disabled] .more-link:hover, fieldset[disabled] .btn-success:focus, fieldset[disabled] .gform_wrapper .gform_button:focus, .gform_wrapper fieldset[disabled] .gform_button:focus, fieldset[disabled] .more-link:focus, fieldset[disabled] .btn-success:active, fieldset[disabled] .gform_wrapper .gform_button:active, .gform_wrapper fieldset[disabled] .gform_button:active, fieldset[disabled] .more-link:active, fieldset[disabled] .btn-success.active, fieldset[disabled] .gform_wrapper .active.gform_button, .gform_wrapper fieldset[disabled] .active.gform_button, fieldset[disabled] .active.more-link {
+.btn-success.disabled, .btn-success.disabled:hover, .btn-success.disabled:focus, .btn-success.disabled:active, .btn-success.disabled.active, .btn-success[disabled], .btn-success[disabled]:hover, .btn-success[disabled]:focus, .btn-success[disabled]:active, .btn-success[disabled].active, fieldset[disabled] .btn-success, fieldset[disabled] .btn-success:hover, fieldset[disabled] .btn-success:focus, fieldset[disabled] .btn-success:active, fieldset[disabled] .btn-success.active {
   background-color: #51d15b;
   border-color: #3dcc48;
 }
 /* line 481, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_mixins.scss */
-.btn-success .badge, .gform_wrapper .gform_button .badge, .more-link .badge {
+.btn-success .badge {
   color: #51d15b;
   background-color: #fff;
 }
@@ -6132,7 +6132,7 @@ a.list-group-item.active .list-group-item-text, a.list-group-item.active:hover .
   margin-bottom: 32px;
   background-color: white;
   border: 1px solid transparent;
-  border-radius: 3px;
+  border-radius: 8px;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
 }
@@ -6248,8 +6248,8 @@ a.list-group-item.active .list-group-item-text, a.list-group-item.active:hover .
 .panel-heading {
   padding: 10px 15px;
   border-bottom: 1px solid transparent;
-  border-top-right-radius: 2px;
-  border-top-left-radius: 2px;
+  border-top-right-radius: 7px;
+  border-top-left-radius: 7px;
 }
 /* line 107, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_panels.scss */
 .panel-heading > .dropdown .dropdown-toggle {
@@ -6273,14 +6273,14 @@ a.list-group-item.active .list-group-item-text, a.list-group-item.active:hover .
   padding: 10px 15px;
   background-color: whitesmoke;
   border-top: 1px solid #dddddd;
-  border-bottom-right-radius: 2px;
-  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 7px;
+  border-bottom-left-radius: 7px;
 }
 
 /* line 140, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_panels.scss */
 .panel-group .panel {
   margin-bottom: 0;
-  border-radius: 3px;
+  border-radius: 8px;
   overflow: hidden;
 }
 /* line 144, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_panels.scss */
@@ -10079,7 +10079,7 @@ a:hover, .button:hover, .gform_button:hover, .btn:hover, .gform_button:hover, .a
 
 /* line 21, ../scss/partials/_modules.scss */
 hr {
-  border-top: 1px solid gray;
+  border-top: 1px solid #999999;
 }
 
 /* line 25, ../scss/partials/_modules.scss */
@@ -10552,104 +10552,114 @@ h1, h2, h3, h4, h5, h6 {
   color: #1b1b1b;
 }
 
-/* line 414, ../scss/partials/_modules.scss */
+/* line 413, ../scss/partials/_modules.scss */
+.title {
+  margin-bottom: 85px;
+}
+
+/* line 416, ../scss/partials/_modules.scss */
 .block.bg-dark h1, .block.bg-dark h2, .block.bg-dark h3, .block.bg-dark h4, .block.bg-dark h5, .block.bg-dark h6 {
   color: #ffffff;
 }
 
-/* line 417, ../scss/partials/_modules.scss */
+/* line 419, ../scss/partials/_modules.scss */
+.page-template-page-pricing-php .block {
+  padding-top: 40px;
+}
+
+/* line 421, ../scss/partials/_modules.scss */
 #features3 {
   padding-top: 120px;
 }
 
-/* line 423, ../scss/partials/_modules.scss */
+/* line 427, ../scss/partials/_modules.scss */
 .dropdown-menu {
   -moz-border-radius: 0px 0px 4px 4px;
   -webkit-border-radius: 0px;
   border-radius: 0px 0px 4px 4px;
 }
-/* line 426, ../scss/partials/_modules.scss */
+/* line 430, ../scss/partials/_modules.scss */
 .dropdown-menu li {
   display: list-item;
 }
-/* line 429, ../scss/partials/_modules.scss */
+/* line 433, ../scss/partials/_modules.scss */
 .dropdown-menu li a {
   color: #cccccc;
 }
 
-/* line 439, ../scss/partials/_modules.scss */
+/* line 443, ../scss/partials/_modules.scss */
 .nav .menu-item .dropdown-menu .menu-item a {
   padding: 10px 30px;
   border-top: 1px solid #267db7;
 }
 
-/* line 445, ../scss/partials/_modules.scss */
+/* line 449, ../scss/partials/_modules.scss */
 .menu-item .dropdown-menu {
   padding: 0px 0px;
 }
 
-/* line 451, ../scss/partials/_modules.scss */
+/* line 455, ../scss/partials/_modules.scss */
 .body-content ul li:before {
   padding-right: 15px;
   color: #cccccc;
 }
 
-/* line 461, ../scss/partials/_modules.scss */
+/* line 465, ../scss/partials/_modules.scss */
 .ginput_complex input, .ginput_complex select {
   margin-bottom: 10px;
 }
 
-/* line 464, ../scss/partials/_modules.scss */
+/* line 468, ../scss/partials/_modules.scss */
 body .gform_wrapper .gfield_time_hour, body .gform_wrapper .gfield_time_minute, body .gform_wrapper .gfield_date_month, body .gform_wrapper .gfield_date_day, body .gform_wrapper .gfield_date_year {
   width: 62px;
   line-height: 2.5;
 }
 
-/* line 469, ../scss/partials/_modules.scss */
+/* line 473, ../scss/partials/_modules.scss */
 body .gform_wrapper .gfield_time_hour input, body .gform_wrapper .gfield_time_minute input, body .gform_wrapper .gfield_date_month input, body .gform_wrapper .gfield_date_day input, body .gform_wrapper .gfield_date_year input {
   width: 78% !important;
   display: inline;
 }
 
-/* line 474, ../scss/partials/_modules.scss */
+/* line 478, ../scss/partials/_modules.scss */
 body .gform_wrapper .gfield_time_ampm select {
   width: 70px !important;
 }
 
-/* line 478, ../scss/partials/_modules.scss */
+/* line 482, ../scss/partials/_modules.scss */
 body .gform_wrapper .top_label input.medium, .gform_wrapper .top_label select.medium {
   width: 100%;
 }
 
-/* line 480, ../scss/partials/_modules.scss */
+/* line 484, ../scss/partials/_modules.scss */
 .gform_wrapper ul {
   padding-left: inherit;
 }
 
-/* line 482, ../scss/partials/_modules.scss */
+/* line 486, ../scss/partials/_modules.scss */
 .ginput_container input, .ginput_container select, .ginput_container textarea {
   padding-left: 8px;
   padding-right: 8px;
 }
 
-/* line 490, ../scss/partials/_modules.scss */
+/* line 494, ../scss/partials/_modules.scss */
 .main-col #gform_wrapper_5 .gform_button, .main-col #gform_wrapper_5 .gform_title {
   margin-top: 0;
 }
 
-/* line 493, ../scss/partials/_modules.scss */
+/* line 497, ../scss/partials/_modules.scss */
 body .gform_heading h3.gform_title {
   font-size: 45px !important;
 }
 
-/* line 495, ../scss/partials/_modules.scss */
+/* line 499, ../scss/partials/_modules.scss */
 body .gform_wrapper .gform_footer {
   padding: 0 0 10px 0;
   margin: 0;
   clear: both;
 }
 
-/* line 502, ../scss/partials/_modules.scss */
+/* line 506, ../scss/partials/_modules.scss */
 .body-content .gform_body ul li:before {
   font-family: inherit;
   content: none;
@@ -10657,71 +10667,71 @@ body .gform_wrapper .gform_footer {
   color: inherit;
 }
 
-/* line 510, ../scss/partials/_modules.scss */
+/* line 514, ../scss/partials/_modules.scss */
 .gform_wrapper .top_label li.gfield.gf_left_half {
   float: left;
   clear: left !important;
 }
 
-/* line 515, ../scss/partials/_modules.scss */
+/* line 519, ../scss/partials/_modules.scss */
 .gform_wrapper .top_label li.gfield.gf_left_half {
   margin: 0 0 8px 0;
   width: 49%;
 }
 
-/* line 520, ../scss/partials/_modules.scss */
+/* line 524, ../scss/partials/_modules.scss */
 .gform_wrapper .top_label li.gfield.gf_left_half input.medium, .gform_wrapper .top_label li.gfield.gf_left_half input.large, .gform_wrapper .top_label li.gfield.gf_left_half select.medium, .gform_wrapper .top_label li.gfield.gf_left_half select.large, .gform_wrapper .top_label li.gfield.gf_right_half input.medium, .gform_wrapper .top_label li.gfield.gf_right_half input.large, .gform_wrapper .top_label li.gfield.gf_right_half select.medium, .gform_wrapper .top_label li.gfield.gf_right_half select.large {
   width: 97%;
 }
 
-/* line 524, ../scss/partials/_modules.scss */
+/* line 528, ../scss/partials/_modules.scss */
 .gform_wrapper .top_label li.gfield.gf_left_half + li.gfield, .gform_wrapper .top_label li.gfield.gf_right_half + li.gfield, .gform_wrapper .top_label li.gfield.gf_left_half + .gform_footer, .gform_wrapper .top_label li.gfield.gf_right_half + .gform_footer {
   clear: both;
 }
 
-/* line 528, ../scss/partials/_modules.scss */
+/* line 532, ../scss/partials/_modules.scss */
 .gform_wrapper .top_label li.gfield.gf_right_half {
   float: right;
   clear: right !important;
 }
 
-/* line 533, ../scss/partials/_modules.scss */
+/* line 537, ../scss/partials/_modules.scss */
 .gform_wrapper .top_label li.gfield.gf_right_half {
   margin: 0 0 8px 0;
   width: 49%;
 }
 
-/* line 541, ../scss/partials/_modules.scss */
+/* line 545, ../scss/partials/_modules.scss */
 .logos {
   background: #eeeeee;
   padding-top: 40px;
   padding-bottom: 40px;
   border-bottom: 1px solid #010101;
 }
-/* line 547, ../scss/partials/_modules.scss */
+/* line 551, ../scss/partials/_modules.scss */
 .logos .container .cred-logo.trec {
   padding-left: 50px;
   padding-right: 50px;
 }
 
-/* line 557, ../scss/partials/_modules.scss */
+/* line 561, ../scss/partials/_modules.scss */
 .body-content p, .body-content ul, .body-content ol {
   margin: 35px 0 0 0;
 }
 
-/* line 562, ../scss/partials/_modules.scss */
+/* line 566, ../scss/partials/_modules.scss */
 .lead {
   font-size: 19px;
   font-weight: normal;
 }
 
-/* line 569, ../scss/partials/_modules.scss */
+/* line 573, ../scss/partials/_modules.scss */
 .primary-content {
   z-index: 0;
   background-color: #ffffff;
   position: relative;
 }
-/* line 573, ../scss/partials/_modules.scss */
+/* line 577, ../scss/partials/_modules.scss */
 .primary-content .sidebar.background {
   display: block;
   opacity: 100;
@@ -10739,18 +10749,18 @@ body .gform_wrapper .gform_footer {
   -o-background-size: cover;
   background-size: cover;
 }
-/* line 595, ../scss/partials/_modules.scss */
+/* line 599, ../scss/partials/_modules.scss */
 .primary-content .sidebar.background .container {
   height: 100%;
   padding-top: 0;
   padding-bottom: 0;
 }
-/* line 600, ../scss/partials/_modules.scss */
+/* line 604, ../scss/partials/_modules.scss */
 .primary-content .sidebar.background .col-sm-4 {
   position: absolute;
   height: 100%;
 }
-/* line 603, ../scss/partials/_modules.scss */
+/* line 607, ../scss/partials/_modules.scss */
 .primary-content .sidebar.background .col-sm-4 div {
   position: absolute;
   right: 0;
@@ -10763,7 +10773,7 @@ body .gform_wrapper .gform_footer {
   -o-background-size: cover;
   background-size: cover;
 }
-/* line 614, ../scss/partials/_modules.scss */
+/* line 618, ../scss/partials/_modules.scss */
 .primary-content .sidebar.background .col-sm-4 div img {
   height: 100% !important;
   width: auto;
@@ -10771,42 +10781,47 @@ body .gform_wrapper .gform_footer {
   top: 0;
   right: 0;
 }
-/* line 623, ../scss/partials/_modules.scss */
+/* line 627, ../scss/partials/_modules.scss */
 .primary-content .sidebar.background .col-sm-4 .page-id-5 img, .primary-content .sidebar.background .col-sm-4 .page-id-7 img, .primary-content .sidebar.background .col-sm-4 .page-id-100 img {
   height: 700px !important;
 }
 
-/* line 631, ../scss/partials/_modules.scss */
+/* line 635, ../scss/partials/_modules.scss */
 .widget ul.menu {
   list-style: none;
   padding-left: 0;
 }
 
-/* line 636, ../scss/partials/_modules.scss */
+/* line 640, ../scss/partials/_modules.scss */
+.widget-title {
+  color: #1b1b1b;
+}
+
+/* line 644, ../scss/partials/_modules.scss */
 .body-content .widget {
   padding-bottom: 50px;
 }
 
-/* line 640, ../scss/partials/_modules.scss */
+/* line 648, ../scss/partials/_modules.scss */
 .sidebar .widget > div {
   margin-top: 25px;
 }
 
-/* line 644, ../scss/partials/_modules.scss */
+/* line 652, ../scss/partials/_modules.scss */
 .sidebar .widget div > ul, ol {
   padding-left: 0px;
 }
-/* line 647, ../scss/partials/_modules.scss */
+/* line 655, ../scss/partials/_modules.scss */
 .sidebar .widget div > ul li, ol li {
   margin-bottom: 10px;
 }
 
-/* line 652, ../scss/partials/_modules.scss */
+/* line 660, ../scss/partials/_modules.scss */
 .footer .widget {
   padding-bottom: 0px !important;
 }
 
-/* line 656, ../scss/partials/_modules.scss */
+/* line 664, ../scss/partials/_modules.scss */
 .widget_sp_image img {
   height: auto;
   -moz-border-radius: 3px;
@@ -10814,19 +10829,19 @@ body .gform_wrapper .gform_footer {
   border-radius: 3px;
 }
 
-/* line 661, ../scss/partials/_modules.scss */
+/* line 669, ../scss/partials/_modules.scss */
 .small-footer .menu li {
   display: inline;
 }
 
-/* line 667, ../scss/partials/_modules.scss */
+/* line 675, ../scss/partials/_modules.scss */
 .footer {
   background-color: #101010;
   z-index: 1000;
   color: gray;
 }
 
-/* line 675, ../scss/partials/_modules.scss */
+/* line 683, ../scss/partials/_modules.scss */
 .btn-play {
   z-index: 1000;
   position: absolute;
@@ -10837,7 +10852,7 @@ body .gform_wrapper .gform_footer {
   margin-top: -40px;
 }
 
-/* line 685, ../scss/partials/_modules.scss */
+/* line 693, ../scss/partials/_modules.scss */
 .player {
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
@@ -10845,7 +10860,7 @@ body .gform_wrapper .gform_footer {
   background: #000000;
 }
 
-/* line 693, ../scss/partials/_modules.scss */
+/* line 701, ../scss/partials/_modules.scss */
 .flex-video {
   margin: 35px 0 0 0;
   background: #d5d5d5;
@@ -10853,7 +10868,7 @@ body .gform_wrapper .gform_footer {
   -webkit-border-radius: 3px;
   border-radius: 3px;
 }
-/* line 698, ../scss/partials/_modules.scss */
+/* line 706, ../scss/partials/_modules.scss */
 .flex-video img {
   position: absolute;
   top: 0;
@@ -10861,7 +10876,7 @@ body .gform_wrapper .gform_footer {
   width: 100%;
   height: 100%;
 }
-/* line 706, ../scss/partials/_modules.scss */
+/* line 714, ../scss/partials/_modules.scss */
 .flex-video iframe {
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
@@ -10869,9 +10884,64 @@ body .gform_wrapper .gform_footer {
   padding: 5px;
 }
 
-/* line 712, ../scss/partials/_modules.scss */
+/* line 720, ../scss/partials/_modules.scss */
 .flex-video.widescreen {
   padding-bottom: 56%;
+}
+
+/* line 727, ../scss/partials/_modules.scss */
+.plan-2 .panel-heading {
+  background-color: #b700ba !important;
+}
+/* line 728, ../scss/partials/_modules.scss */
+.plan-2 .call-to-action .btn, .plan-2 .call-to-action .gform_button, .plan-2 .call-to-action .archive .page-title, .archive .plan-2 .call-to-action .page-title, .plan-2 .call-to-action .more-link {
+  background-color: #b700ba !important;
+}
+
+/* line 731, ../scss/partials/_modules.scss */
+.panel-default {
+  border: none;
+}
+/* line 733, ../scss/partials/_modules.scss */
+.panel-default .panel-heading {
+  background-color: #6c006e;
+  border-color: #6c006e;
+}
+/* line 736, ../scss/partials/_modules.scss */
+.panel-default .panel-heading h3 {
+  margin-top: 15px;
+  margin-bottom: 11px;
+}
+/* line 739, ../scss/partials/_modules.scss */
+.panel-default .panel-body .price {
+  color: #101010;
+  font-size: 60px;
+  margin-top: 10px;
+}
+/* line 743, ../scss/partials/_modules.scss */
+.panel-default .panel-body .price span {
+  font-size: 16px;
+  vertical-align: 27px;
+}
+/* line 745, ../scss/partials/_modules.scss */
+.panel-default .panel-body ul.features {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 18px;
+}
+/* line 749, ../scss/partials/_modules.scss */
+.panel-default .panel-body ul.features li {
+  border-bottom: 1px solid #cccccc;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+/* line 753, ../scss/partials/_modules.scss */
+.panel-default .panel-body ul.features li:first-child {
+  border-top: 1px solid #cccccc;
+}
+/* line 756, ../scss/partials/_modules.scss */
+.panel-default .panel-body .call-to-action .btn, .panel-default .panel-body .call-to-action .gform_button, .panel-default .panel-body .call-to-action .archive .page-title, .archive .panel-default .panel-body .call-to-action .page-title, .panel-default .panel-body .call-to-action .more-link {
+  background-color: #6c006e;
 }
 
 @media (min-width: 768px) {

@@ -19,7 +19,7 @@ a, .button, .gform_button, .btn {
 }
 
 hr {
-    border-top: 1px solid $gray-light;
+    border-top: 1px solid lighten($gray-light,10%);
 }
 
 h1 {
@@ -410,9 +410,13 @@ h1, h2, h3, h4, h5, h6 {
     h1, h2, h3, h4, h5, h6 { color: $body-bg; }
 }
 
+.title { margin-bottom: 85px; }
+
 .block.bg-dark { 
     h1, h2, h3, h4, h5, h6 { color: #ffffff; }
 }
+
+.page-template-page-pricing-php .block { padding-top: 40px; }
 
 #features3 {
     padding-top: 120px;
@@ -484,7 +488,7 @@ body .gform_wrapper .top_label input.medium, .gform_wrapper .top_label select.me
     padding-right: 8px;
 }
 
-.gform_wrapper .gform_button, .more-link { @extend .btn-success, .btn; }
+.gform_wrapper .gform_button, .more-link { @extend .btn-primary, .btn; }
 
 .main-col #gform_wrapper_5 {
     .gform_button, .gform_title { margin-top: 0; }
@@ -633,6 +637,10 @@ width: 49%;
     padding-left: 0;
 }
 
+.widget-title {
+    color: $gray-dark;
+}
+
 .body-content .widget {
     padding-bottom: $space-md;
 }  
@@ -711,4 +719,40 @@ background: #000000;
 
 .flex-video.widescreen {
     padding-bottom: 56%;
+}
+
+// Pricing Page /////////////////////////////////////////////
+
+.plan-2 {
+    .panel-heading { background-color: $brand-primary!important; }
+    .call-to-action .btn { background-color: $brand-primary!important; }
+}
+
+.panel-default {
+    border: none;    
+    .panel-heading {
+        background-color: darken($brand-primary, 15%);
+        border-color: darken($brand-primary, 15%);
+        h3 { margin-top: 15px; margin-bottom: 11px; }
+    }
+    .panel-body {
+        .price {
+            color: $gray-darker;
+            font-size: 60px;     
+            margin-top: 10px;       
+            span { font-size: 16px; vertical-align: 27px; }
+        }
+        ul.features {
+            list-style: none;
+            padding-left: 0;
+            margin-top: 18px;
+            li {
+                border-bottom: 1px solid lighten($gray-light,30%);
+                padding-top: 7px;
+                padding-bottom: 7px;
+                &:first-child { border-top: 1px solid lighten($gray-light,30%); }
+            }            
+        }
+        .call-to-action .btn { background-color: darken($brand-primary, 15%); }
+    }
 }
