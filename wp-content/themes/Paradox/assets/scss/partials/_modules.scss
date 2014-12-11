@@ -1,5 +1,7 @@
 // Base Styles /////////////////////////////////////////////////////////////////
 
+body { background: $body-bg url('../Paradox/assets/images/bg.jpg') right 0px no-repeat fixed; }
+
 .bg-light {
     background-color: #ffffff;
 }
@@ -153,7 +155,7 @@ header .navbar-brand {
 
 .sidebar-box { padding: 30px; }
 
-.background-dark { background-color: $brand-dark!important; }
+.background-dark { background-color: $gray-dark; }
 
 // Body BG //////////////////////////////////////////////////////////////////
 
@@ -181,7 +183,7 @@ header .navbar-brand {
 
 .masthead {
     background-color: transparent;
-    h1, h2, h3, h4, h5, h6 { color: #ffffff; line-height: 0.75; }
+    h1, h2, h3, h4, h5, h6 { color: #ffffff; line-height: 0.9; }
     h1 { margin-top: 0; }
     p { color: $brand-light; }
     // p.lead { margin-top: 0; }
@@ -403,6 +405,18 @@ h1, h2, h3, h4, h5, h6 {
 // .block {
 //     display: block;
 // }
+
+.block.bg-light { 
+    h1, h2, h3, h4, h5, h6 { color: $body-bg; }
+}
+
+.block.bg-dark { 
+    h1, h2, h3, h4, h5, h6 { color: #ffffff; }
+}
+
+#features3 {
+    padding-top: 120px;
+}
 
 // Lists /////////////////////////////////////////////////////////////////
 
@@ -651,7 +665,7 @@ width: 49%;
 // Footer /////////////////////////////////////////////////////////////////
 
 .footer {
-    background-color: $brand-primary;
+    background-color: $gray-darker;
     z-index: 1000;
     color: $brand-light;
 }

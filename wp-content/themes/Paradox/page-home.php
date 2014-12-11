@@ -14,7 +14,7 @@ Template Name: Home
                 <h1><?php echo get_field('headline') ?></h1>
                 <p><?php echo get_field('subheading') ?></p>  
                 <div style="margin-top:25px">                    
-                    <a href="#features" class="btn btn-lg btn-primary"><i class="fa fa-music fa-left"></i> See Features</a>
+                    <a href="#features" class="btn btn-lg btn-primary"><i class="fa fa-question-circle fa-left"></i> Why Worship Online?</a>
                     &nbsp;&nbsp;&nbsp;
                     <a href="#pricing" class="btn btn-lg btn-primary">Start Free Trial <i class="fa fa-arrow-circle-right fa-right"></i></a>                    
                 </div>              
@@ -25,17 +25,11 @@ Template Name: Home
 
 <section class="block bg-light" id="features">           
     <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-6 text-left">
-                <img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/images/car.png" alt="<?php bloginfo('description'); ?>">
-            </div>            
-            <div class="col-md-5">
-                <h2>Pain Point #1</h2>
+        <div class="row">           
+            <div class="col-md-offset-6 col-md-5">
+                <h2>Tired of wasting your time on junk video tutorials?</h2>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur arcu felis, viverra ut mauris sit amet, hendrerit auctor nunc. Aenean enim nisi, egestas vel enim et, sollicitudin ornare ipsum. 
-                </p>
-                <p>
-                    Donec vel enim at augue elementum convallis sed vel odio. Donec sodales metus urna, et aliquam libero feugiat et. Pellentesque tristique eget lacus congue suscipit. Aenean venenatis semper massa vel iaculis. Nunc risus mi, viverra sed orci nec.
+                    It's extremely hard to find worship song tutorials that are right. You have to weed through twenty junk videos on YouTube to find one that gets close to what you need. Imagine you can find the exact song you are looking for in a few seconds and never have to worry if the guitar parts are accurate. Worship Online gives you just that.
                 </p>
                 <a href="#features2" class="btn btn-lg btn-primary"><i class="fa fa-arrow-circle-down fa-left"></i>See More</a> 
             </div>
@@ -46,13 +40,10 @@ Template Name: Home
 <section class="block bg-dark" id="features2">           
     <div class="container-fluid">
         <div class="row">            
-            <div class="col-md-6 text-left">
-                <img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/images/drag-racer.png" alt="<?php bloginfo('description'); ?>">
-            </div>
-            <div class="col-md-5">
-                <h2>Pain Point #2</h2>
+            <div class="col-md-offset-1 col-md-5">
+                <h2>Video quality matters</h2>
                 <p>
-                    Donec vel enim at augue elementum convallis sed vel odio. Donec sodales metus urna, et aliquam libero feugiat et. Pellentesque tristique eget lacus congue suscipit. Aenean venenatis semper massa vel iaculis. Nunc risus mi, viverra sed orci nec.
+                    A low quality video can make it impossible to learn a song accurately. Overcompressed audio and fuzzy footage are the last thing you need when you are trying to learn an intricate lead or strumming pattern. Worship Online offers high-quality video and audio production on all of our video lessons so you can nail the parts as they were intended.
                 </p>
                 <a href="#features3" class="btn btn-lg btn-primary"><i class="fa fa-arrow-circle-down fa-left"></i>See More</a> 
             </div>            
@@ -63,16 +54,10 @@ Template Name: Home
 <section class="block bg-light" id="features3">           
     <div class="container-fluid">     
         <div class="row">
-            <div class="col-md-6 text-left">
-                <img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/images/truck.png" alt="<?php bloginfo('description'); ?>">
-            </div>
-            <div class="col-md-5">
-                <h2>Pain Point #3</h2>
+            <div class="col-md-offset-6 col-md-5">
+                <h2>You don't want the dumbed-down version</h2>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur arcu felis, viverra ut mauris sit amet, hendrerit auctor nunc. Aenean enim nisi, egestas vel enim et, sollicitudin ornare ipsum. 
-                </p>
-                <p>
-                    Donec vel enim at augue elementum convallis sed vel odio. Donec sodales metus urna, et aliquam libero feugiat et. Pellentesque tristique eget lacus congue suscipit. Aenean venenatis semper massa vel iaculis. Nunc risus mi, viverra sed orci nec.
+                    Most worship song tutorials are too basic. Many times, you end up seeing a strange hybrid guitar part that doesn't sound like anything you are hearing on the original recording. They just aren't advanced enough and don't cover all of the parts. You need to know exactly how to play the rhythm electric guitar part which is different than the acoustic guitar's rhythm part. Worship online will show you all acoustic and electric guitar parts, lead and rhythm and show you exactly how to play each one.
                 </p>
                 <a href="#features4" class="btn btn-lg btn-primary"><i class="fa fa-arrow-circle-down fa-left"></i>See More</a> 
             </div>
@@ -86,96 +71,17 @@ Template Name: Home
 <section class="block bg-dark" id="features4">           
     <div class="container-fluid">
         <div class="row">            
-            <div class="col-md-5 text-right">
-                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/premium-blue.png" alt="<?php bloginfo('description'); ?>">
-            </div>
-            <div class="col-md-5">
-                <h2>Call to Action</h2>
+            <div class="col-md-offset-6 col-md-5">
+                <h2>Say goodbye to guesswork</h2>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur arcu felis, viverra ut mauris sit amet, hendrerit auctor nunc. Aenean enim nisi, egestas vel enim et, sollicitudin ornare ipsum. 
+                    No more stumbling through rehearsal because you didn't learn the right part. No more wasting countless hours on YouTube. Get high-quality worship song video lessons that walk you through the exact part you need to learn. 
                 </p>
-                <p>
-                    Donec vel enim at augue elementum convallis sed vel odio. Donec sodales metus urna, et aliquam libero feugiat et. Pellentesque tristique eget lacus congue suscipit. Aenean venenatis semper massa vel iaculis. Nunc risus mi, viverra sed orci nec.
-                </p>
-                <a href="#pricing" class="btn btn-lg btn-primary">Get Started</a> 
-                <p>
+                <a href="/pricing" class="btn btn-lg btn-primary">Start Learning Songs</a> 
+<!--                 <p>
                     <a href="#top">Back to top</a>
-                </p>                
+                </p>                 -->
             </div>            
         </div>
-    </div>
-</section>
-
-<section class="block bg-light" id="pricing">           
-    <div class="container">
-        <div class="row">            
-            <h2 class="text-center">Practice all the latest tunes</h2>
-            <div class="col-md-3  plan">
-                <div class="panel panel-default text-center">
-                    <div class="panel-heading">
-                        <h3>Personal</h3>
-                        <p>$10.00/month</p>
-                    </div> 
-                    <div class="panel-body">           
-                        <ul class="features">
-                            <li>1 Project</li>
-                            <li>1 Page</li>
-                            <li>1 User</li>
-                            <li>1 Organization</li>
-                        </ul>
-                        <div class="call-to-action">
-                            <a class="btn btn-primary btn-large btn-primary btn-block" href="/koudoku/subscriptions/new?plan=1">Sign Up</a>
-                        </div> <!-- call-to-action -->         
-                    </div> <!-- .panel-body -->
-                </div> <!-- .panel -->
-            </div> <!-- .col -->
-            <div class="col-md-3  plan plan-primary">
-                <div class="panel panel-default text-center">
-                    <div class="panel-heading">
-                        <h3>Team</h3>
-                        <p>$30.00/month</p>
-                    </div> 
-                    <div class="panel-body">           
-                        <ul class="features">
-                            <li>3 Projects</li>
-                            <li>3 Pages</li>
-                            <li>3 Users</li>
-                            <li>3 Organizations</li>
-                        </ul>
-                        <div class="call-to-action">
-                            <a class="btn btn-primary btn-large btn-primary btn-block" href="/koudoku/subscriptions/new?plan=2">Sign Up</a>
-                        </div> <!-- call-to-action -->         
-                    </div> <!-- .panel-body -->
-                </div> <!-- .panel -->
-            </div> <!-- .col -->
-            <div class="col-md-3  plan ">
-                <div class="panel panel-default text-center">
-                    <div class="panel-heading">
-                        <h3>Enterprise</h3>
-                        <p>$100.00/month</p>
-                    </div> 
-                    <div class="panel-body">           
-                        <ul class="features">
-                            <li>10 Projects</li>
-                            <li>10 Pages</li>
-                            <li>10 Users</li>
-                            <li>10 Organizations</li>
-                        </ul>
-                        <div class="call-to-action">
-                            <a class="btn btn-primary btn-large btn-primary btn-block" href="/koudoku/subscriptions/new?plan=3">Sign Up</a>
-                        </div> <!-- call-to-action -->         
-                    </div> <!-- .panel-body -->
-                </div> <!-- .panel -->
-            </div> <!-- .col -->
-
-<div class="col-md-3 social-proof">
-    <blockquote>
-        <h4>"Some Great Quote"</h4> — Person at Place
-    </blockquote>
-</div>
-
-             
-        </div> <!-- .row -->
     </div>
 </section>
 

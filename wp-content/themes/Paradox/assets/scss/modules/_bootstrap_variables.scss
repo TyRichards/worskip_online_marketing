@@ -63,8 +63,8 @@ $line-height-base: 1.8;
 $line-height-computed: floor(($font-size-base * $line-height-base));
 
 // Heading Styles
-$headings-font-family:    $font-family-serif; //"Domine", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$headings-font-weight:    $bold;
+$headings-font-family:    $font-family-sans-serif; //"Domine", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$headings-font-weight:    $light;
 $headings-line-height:    1.1;
 $h1-color:                $brand-primary !important;
 $headings-color:          $brand-primary;
