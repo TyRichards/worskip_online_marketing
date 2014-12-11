@@ -1,6 +1,10 @@
 // Base Styles /////////////////////////////////////////////////////////////////
 
-body { background: $body-bg url('../Paradox/assets/images/bg.jpg') right 0px no-repeat fixed; }
+body.page-template-page-home-php { background: $body-bg url('../Paradox/assets/images/bg.jpg') right 0px no-repeat fixed; }
+.page-template-page-features-php,
+.page-template-page-pricing-php { background: $gray-darker url('../Paradox/assets/images/bg-es335-b.jpg') left 0px no-repeat fixed; }
+
+
 
 .bg-light {
     background-color: #ffffff;
@@ -416,7 +420,8 @@ h1, h2, h3, h4, h5, h6 {
     h1, h2, h3, h4, h5, h6 { color: #ffffff; }
 }
 
-.page-template-page-pricing-php .block { padding-top: 40px; }
+.page-template-page-pricing-php .block,
+.page-template-page-features-php .block { background: transparent; padding-top: 40px; }
 
 #features3 {
     padding-top: 120px;
@@ -461,6 +466,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 // Gravity Forms
+
+body.page-template-page-single-column-php {
+    .gform_heading { 
+        text-align: center!important; 
+        h3.gform_title { 
+            font-size: $font-size-h1!important; 
+            margin-bottom: 70px;
+        }
+    }
+}
+
 .ginput_complex {
     input, select { margin-bottom: 10px; }
 }
@@ -569,6 +585,8 @@ width: 49%;
 }
 
 // Sidebar /////////////////////////////////////////////////////////////////
+
+
 
 .primary-content {
     z-index: 0;
@@ -756,3 +774,20 @@ background: #000000;
         .call-to-action .btn { background-color: darken($brand-primary, 15%); }
     }
 }
+
+// Features ////////////////////////////////
+
+.features-boxes {
+    .box {
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-bottom: 70px;
+        h2 {             
+            font-size: 28px; 
+            margin-top: 0; 
+            i { color: $brand-primary; }
+        }
+        p { font-size: 16px; }
+    }
+}
+

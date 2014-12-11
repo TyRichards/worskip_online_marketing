@@ -22,10 +22,11 @@ Template Name: Pricing
                     <div class="panel-body"> 
                         <h4 class="price">$12<span>/ mo.</span></h4>           
                         <ul class="features">
-                            <li>1 Project</li>
-                            <li>1 Page</li>
                             <li>1 User</li>
-                            <li>1 Organization</li>
+                            <li>Access to All Songs</li>
+                            <li>All Acoustic & Electric Parts</li>
+                            <li>Charts & Tabs</li>
+                            <li><strike>Video Sharing</strike></li>
                         </ul>
                         <div class="call-to-action">
                             <a class="btn btn-primary btn-large btn-primary btn-block" href="#">Start Learning Songs</a>
@@ -41,10 +42,11 @@ Template Name: Pricing
                     <div class="panel-body">           
                         <h4 class="price">$49<span>/ mo.</span></h4>                  
                         <ul class="features">
-                            <li>3 Projects</li>
-                            <li>3 Pages</li>
-                            <li>3 Users</li>
-                            <li>3 Organizations</li>
+                            <li>Up to 6 Users</li>
+                            <li>Access to All Songs</li>
+                            <li>All Acoustic & Electric Parts</li>
+                            <li>Charts & Tabs</li>
+                            <li>Video Sharing</li>
                         </ul>
                         <div class="call-to-action">
                             <a class="btn btn-primary btn-large btn-primary btn-block" href="#">Start Learning Songs</a>
@@ -60,10 +62,11 @@ Template Name: Pricing
                     <div class="panel-body">
                         <h4 class="price">$149<span>/ mo.</span></h4>                           
                         <ul class="features">
-                            <li>10 Projects</li>
-                            <li>10 Pages</li>
-                            <li>10 Users</li>
-                            <li>10 Organizations</li>
+                            <li>Up to 30 Users</li>
+                            <li>Access to All Songs</li>
+                            <li>All Acoustic & Electric Parts</li>
+                            <li>Charts & Tabs</li>
+                            <li>Video Sharing</li>
                         </ul>
                         <div class="call-to-action">
                             <a class="btn btn-primary btn-large btn-primary btn-block" href="#">Start Learning Songs</a>
