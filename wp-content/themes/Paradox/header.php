@@ -80,7 +80,7 @@
 								<a class="btn btn-sm btn-primary navbar-btn navbar-right hidden-xs" href="http://worshiponline.herokuapp.com/users/sign_in" style="margin-left:10px;">
 									Sign In
 								</a>  								
-								<a class="btn btn-sm btn-primary navbar-btn navbar-right hidden-xs" href="#">
+								<a class="btn btn-sm btn-primary navbar-btn navbar-right hidden-xs" href="/pricing">
 									Start Free Trial
 								</a>  													   						
 							</div>
