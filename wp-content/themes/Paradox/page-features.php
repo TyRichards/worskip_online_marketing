@@ -39,7 +39,7 @@ Template Name: Features
 						<div class="col-sm-6">
 				  			<div class="box">                      
 								<h2><i class="fa fa-check-square fa-left"></i> Acoustic Guitar</h2>
-								<p>Learn the acoustic parts exactly as they are on the recordings, with lessons are great for beginners or experts.</p>
+								<p>“Learn the acoustic parts exactly as they are on the recordings, with lessons for beginners or experts</p>
 				  			</div>               
 						</div>
 						<div class="col-sm-6">
@@ -66,7 +66,7 @@ Template Name: Features
 						<div class="col-sm-6">
 				  			<div class="box">                      
 								<h2><i class="fa fa-file fa-left"></i> Charts & Tabs</h2>
-								<p>Chord charts and guitar tabs are key to learning the parts and for visual cues during worship. We got 'em.</p>
+								<p>Chord charts and guitar tabs are key to learning the parts and having visual cues during worship. We got 'em.</p>
 				  			</div>    
 						</div>
 			  		</div>
@@ -103,7 +103,7 @@ Template Name: Features
 				</div>                                                                                              
 			</div> <!-- .col -->
 			<div class="col-md-4 col-md-offset-4">
-				<a class="btn btn-lg btn-primary btn-block" style="margin-top:0">Get Started <i class="fa fa-arrow-circle-right fa-right"></i></a>
+				<a class="btn btn-lg btn-primary btn-block" style="margin-top:0">Start Your Free Trial<i class="fa fa-arrow-circle-right fa-right"></i></a>
 		  	</div> <!-- .col -->
 		</div> <!-- .row -->
 		<div class="row">
@@ -145,7 +145,7 @@ Template Name: Features
 					Imagine walking into rehearsal and every musician on stage knows their part for every song.  Rehearsal goes by like a breeze and that means more time to relax in prayer.
 				</p>               
 				<a href="/pricing" class="btn btn-primary">
-					Get Started<i class="fa fa-arrow-circle-right fa-right"></i>
+					Start Your Free Trial<i class="fa fa-arrow-circle-right fa-right"></i>
 				</a>
 			</div>
 			<div class="col-md-5 col-md-offset-1">

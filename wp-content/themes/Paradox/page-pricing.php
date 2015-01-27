@@ -29,7 +29,7 @@ Template Name: Pricing
                             <li><strike>Video Sharing</strike></li>
                         </ul>
                         <div class="call-to-action">
-                            <a class="btn btn-primary btn-large btn-primary btn-block" href="#">Get Started</a>
+                            <a class="btn btn-primary btn-large btn-primary btn-block" href="#">Start Free Trial</a>
                         </div> <!-- call-to-action -->         
                     </div> <!-- .panel-body -->
                 </div> <!-- .panel -->
@@ -50,19 +50,17 @@ Template Name: Pricing
                             <li>Video Sharing</li>
                         </ul>
                         <div class="call-to-action">
-                            <a class="btn btn-primary btn-large btn-primary btn-block" href="#">Get Started</a>
+                            <a class="btn btn-primary btn-large btn-primary btn-block" href="#">Start Free Trial</a>
                         </div> <!-- call-to-action -->         
                     </div> <!-- .panel-body -->
                 </div> <!-- .panel -->
             </div> <!-- .col --> 
             <div class="col-md-3 col-md-offset-1">
-                <p class="text-muted">Pay thousands of dollars for a new music director or just pennies with Worship Online.</p>
+                <p class="text-muted">It’s like hiring a music director for only pennies a month.</p>
                 <br />
-                <p class="text-muted"><i>"Worship online help me get rid of my unprepared musician problems once and for all"</i><br>— WO Customer</p>
+                <p class="text-muted"><i>"I can’t explain the feeling when all of your musicians show up knowing the songs perfectly! You have to try it!"</i><br>— WO Customer</p>
                 <br />
-                <p class="text-muted"><i>"Everyone is on the same page before rehearsal even starts! My band is really geling."</i><br>— WO Customer</p>
-
-                                               
+                <p class="text-muted"><i>“Me and the other guitar player are in perfect sync, I’m having more fun than ever, and the band is benefiting big time!"</i><br>— WO Customer</p>
             </div>                        
         </div> <!-- .row -->
     </div>

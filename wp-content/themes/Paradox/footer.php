@@ -34,10 +34,10 @@
 			        	</div>	        	
 			        	<div class="col-md-4 text-center">
 			        		<ul class="list-inline">
-			        			<li><a href="googleplus.com" title="Google Plus"><i class="fa fa-google-plus fa-2x"></i></a></li>
+			        			<li><a href="googleplus.com" title="Google Plus"><i class="fa fa-instagram fa-2x"></i></a></li>
 			        			<li><a href="twitter.com" title="Twitter"><i class="fa fa-twitter fa-2x"></i></a></li>
 			        			<li><a href="facebook" title="Facebook"><i class="fa fa-facebook fa-2x"></i></a></li>
-			        			<li><a href="linkedin" title="LinkedIn"><i class="fa fa-linkedin fa-2x"></i></a></li>
+			        			<li><a href="linkedin" title="LinkedIn"><i class="fa fa-youtube fa-2x"></i></a></li>
 			        		</ul>
 			        	</div>
 		        		<div class="col-md-4">
