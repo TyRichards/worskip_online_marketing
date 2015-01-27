@@ -188,9 +188,17 @@ header .navbar-brand {
 .masthead {
     background-color: transparent;
     h1, h2, h3, h4, h5, h6 { color: #ffffff; line-height: 0.9; }
-    h1 { margin-top: 0; }
-    p { color: $brand-light; }
+    h1 { margin-top: 0; font-size: 44px; }
+    h2 { font-size: 24px; margin-top: 35px!important; }
+    p { color: $brand-light; font-size: 16px; }
     // p.lead { margin-top: 0; }
+}
+
+// Blip /////////////////////////////////
+
+.blip {
+    padding-top: 50px;
+    padding-bottom: 90px;
 }
 
 // Sidebar Feature Image /////////////////////////////////////////////////////////////////
@@ -412,6 +420,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .block.bg-light { 
     h1, h2, h3, h4, h5, h6 { color: $body-bg; }
+    background-color: #ffffff!important;
 }
 
 .title { margin-bottom: 85px; }
@@ -696,6 +705,33 @@ width: 49%;
     color: $brand-light;
 }
 
+// Clear Buttons //////////////////////////////////////////////////////////
+
+.btn-clear {  
+    color: #ffffff;  
+    background-color: transparent;
+    border: 2px solid white;
+    &:hover {
+        color: #000000;
+        background-color: #ffffff;
+    }
+}
+
+.btn-clear.btn-primary {
+    color: #ffffff;  
+    background-color: transparent;
+    border: 2px solid $brand-primary;
+    &:hover {
+        color: #ffffff;
+        background-color: $brand-primary;
+    }
+}
+
+.btn-clear.btn {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
 // Video Player /////////////////////////////////////////////////////////////////
 
 .btn-play {
@@ -746,6 +782,36 @@ background: #000000;
     .call-to-action .btn { background-color: $brand-primary!important; }
 }
 
+.plan input {
+    text-align: center;
+    border: none;
+    background-color: transparent;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-transition: none;
+    height: 30px;
+    font-weight: bold;
+    &::-webkit-input-placeholder { 
+        color: $brand-primary; 
+        font-style: italic;        
+    }
+    &:focus {
+        border-color: none;
+        outline: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+}
+
+.plan-2 ul.features li:first-child {
+    background-color: #FFFED0;
+}
+
+input:focus::-webkit-input-placeholder { color:transparent; }
+input:focus:-moz-placeholder { color:transparent; } /* FF 4-18 */
+input:focus::-moz-placeholder { color:transparent; } /* FF 19+ */
+input:focus:-ms-input-placeholder { color:transparent; }
+
 .panel-default {
     border: none;    
     .panel-heading {
@@ -774,6 +840,7 @@ background: #000000;
         .call-to-action .btn { background-color: darken($brand-primary, 15%); }
     }
 }
+
 
 // Features ////////////////////////////////
 
