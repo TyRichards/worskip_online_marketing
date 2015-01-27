@@ -10,7 +10,7 @@ Template Name: Features
   	<div class="container-fluid">
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
-				<h1 class="text-center title">Lead a rehearsal you can be proud of</h1>
+				<h1 class="text-center title">Have a rehearsal you can be proud of</h1>
 		  	</div>
 		</div>    
 		<div class="row">        
@@ -140,7 +140,7 @@ Template Name: Features
 	<div class="container-fluid">
 		<div class="row">           
 			<div class="col-md-offset-1 col-md-4">
-				<h3>Lead rehearsals you can be proud of</h2>            
+				<h3>Have rehearsals you can be proud of</h2>            
 				<p>
 					Imagine walking into rehearsal and every musician on stage knows their part for every song.  Rehearsal goes by like a breeze and that means more time to relax in prayer.
 				</p>               
