@@ -70,7 +70,7 @@ Template Name: Pricing
     <div class="container-fluid">
         <div class="row">           
             <div class="col-md-offset-1 col-md-4">
-                <h3>Lead rehearsals you can be proud of</h2>            
+                <h3>Have rehearsals you can be proud of</h2>            
                 <p>
                     Imagine walking into rehearsal and every musician on stage knows their part for every song.  Rehearsal goes by like a breeze and that means more time to relax in prayer.
                 </p>               
