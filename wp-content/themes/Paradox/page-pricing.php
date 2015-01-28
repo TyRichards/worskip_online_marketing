@@ -55,8 +55,8 @@ Template Name: Pricing
                     </div> <!-- .panel-body -->
                 </div> <!-- .panel -->
             </div> <!-- .col --> 
-            <div class="col-md-3 col-md-offset-1">
-                <p class="text-muted">It’s like hiring a music director for only pennies a month.</p>
+            <div class="col-md-3 col-md-offset-1 quotes">
+                <p class="text-muted"><i>"It’s like hiring a music director for only pennies a month."</i><br>— WO Customer</p>
                 <br />
                 <p class="text-muted"><i>"I can’t explain the feeling when all of your musicians show up knowing the songs perfectly! You have to try it!"</i><br>— WO Customer</p>
                 <br />
@@ -81,7 +81,7 @@ Template Name: Pricing
             <div class="col-md-5 col-md-offset-1">
                 <h3>See how easily you can improve your band with this tool</h2>            
                 <p>
-                    Whether you’re an individual musician, or a worship leader seeking to equip your team, we have the tools to excellently prepare you for worship.  With tutorials, lessons, chord/number charts, and tabs, you can learn master your setlist with ease!” 
+                    Whether you’re an individual musician, or a worship leader seeking to equip your team, we have the tools to excellently prepare you for worship.  With tutorials, lessons, chord/number charts, and tabs, you can master your setlist with ease!
                 </p>
                 <a href="#" class="btn btn-primary">
                     View Demo<i class="fa fa-play-circle fa-right"></i>

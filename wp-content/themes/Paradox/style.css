@@ -11466,16 +11466,26 @@ body .gform_wrapper .gform_footer {
   padding-bottom: 56%;
 }
 
-/* line 781, ../scss/partials/_modules.scss */
+/* line 780, ../scss/partials/_modules.scss */
+.home .masthead .product {
+  margin-top: 50px;
+}
+
+/* line 786, ../scss/partials/_modules.scss */
+.quotes p:first-child {
+  margin-top: 0;
+}
+
+/* line 793, ../scss/partials/_modules.scss */
 .plan-2 .panel-heading {
   background-color: #b700ba !important;
 }
-/* line 782, ../scss/partials/_modules.scss */
+/* line 794, ../scss/partials/_modules.scss */
 .plan-2 .call-to-action .btn, .plan-2 .call-to-action .gform_button, .plan-2 .call-to-action .archive .page-title, .archive .plan-2 .call-to-action .page-title, .plan-2 .call-to-action .more-link {
   background-color: #b700ba !important;
 }
 
-/* line 785, ../scss/partials/_modules.scss */
+/* line 797, ../scss/partials/_modules.scss */
 .plan input {
   text-align: center;
   border: none;
@@ -11486,12 +11496,12 @@ body .gform_wrapper .gform_footer {
   height: 30px;
   font-weight: bold;
 }
-/* line 794, ../scss/partials/_modules.scss */
+/* line 806, ../scss/partials/_modules.scss */
 .plan input::-webkit-input-placeholder {
   color: #b700ba;
   font-style: italic;
 }
-/* line 798, ../scss/partials/_modules.scss */
+/* line 810, ../scss/partials/_modules.scss */
 .plan input:focus {
   border-color: none;
   outline: 0;
@@ -11499,95 +11509,95 @@ body .gform_wrapper .gform_footer {
   box-shadow: none;
 }
 
-/* line 806, ../scss/partials/_modules.scss */
+/* line 818, ../scss/partials/_modules.scss */
 .plan-2 ul.features li:first-child {
   background-color: #FFFED0;
 }
 
-/* line 810, ../scss/partials/_modules.scss */
+/* line 822, ../scss/partials/_modules.scss */
 input:focus::-webkit-input-placeholder {
   color: transparent;
 }
 
-/* line 811, ../scss/partials/_modules.scss */
+/* line 823, ../scss/partials/_modules.scss */
 input:focus:-moz-placeholder {
   color: transparent;
 }
 
 /* FF 4-18 */
-/* line 812, ../scss/partials/_modules.scss */
+/* line 824, ../scss/partials/_modules.scss */
 input:focus::-moz-placeholder {
   color: transparent;
 }
 
 /* FF 19+ */
-/* line 813, ../scss/partials/_modules.scss */
+/* line 825, ../scss/partials/_modules.scss */
 input:focus:-ms-input-placeholder {
   color: transparent;
 }
 
-/* line 815, ../scss/partials/_modules.scss */
+/* line 827, ../scss/partials/_modules.scss */
 .panel-default {
   border: none;
 }
-/* line 817, ../scss/partials/_modules.scss */
+/* line 829, ../scss/partials/_modules.scss */
 .panel-default .panel-heading {
   background-color: #6c006e;
   border-color: #6c006e;
 }
-/* line 820, ../scss/partials/_modules.scss */
+/* line 832, ../scss/partials/_modules.scss */
 .panel-default .panel-heading h3 {
   margin-top: 15px;
   margin-bottom: 11px;
 }
-/* line 823, ../scss/partials/_modules.scss */
+/* line 835, ../scss/partials/_modules.scss */
 .panel-default .panel-body .price {
   color: #101010;
   font-size: 60px;
   margin-top: 10px;
 }
-/* line 827, ../scss/partials/_modules.scss */
+/* line 839, ../scss/partials/_modules.scss */
 .panel-default .panel-body .price span {
   font-size: 16px;
   vertical-align: 27px;
 }
-/* line 829, ../scss/partials/_modules.scss */
+/* line 841, ../scss/partials/_modules.scss */
 .panel-default .panel-body ul.features {
   list-style: none;
   padding-left: 0;
   margin-top: 18px;
 }
-/* line 833, ../scss/partials/_modules.scss */
+/* line 845, ../scss/partials/_modules.scss */
 .panel-default .panel-body ul.features li {
   border-bottom: 1px solid #cccccc;
   padding-top: 7px;
   padding-bottom: 7px;
 }
-/* line 837, ../scss/partials/_modules.scss */
+/* line 849, ../scss/partials/_modules.scss */
 .panel-default .panel-body ul.features li:first-child {
   border-top: 1px solid #cccccc;
 }
-/* line 840, ../scss/partials/_modules.scss */
+/* line 852, ../scss/partials/_modules.scss */
 .panel-default .panel-body .call-to-action .btn, .panel-default .panel-body .call-to-action .gform_button, .panel-default .panel-body .call-to-action .archive .page-title, .archive .panel-default .panel-body .call-to-action .page-title, .panel-default .panel-body .call-to-action .more-link {
   background-color: #6c006e;
 }
 
-/* line 848, ../scss/partials/_modules.scss */
+/* line 860, ../scss/partials/_modules.scss */
 .features-boxes .box {
   padding-right: 20px;
   padding-left: 20px;
   padding-bottom: 70px;
 }
-/* line 852, ../scss/partials/_modules.scss */
+/* line 864, ../scss/partials/_modules.scss */
 .features-boxes .box h2 {
   font-size: 28px;
   margin-top: 0;
 }
-/* line 855, ../scss/partials/_modules.scss */
+/* line 867, ../scss/partials/_modules.scss */
 .features-boxes .box h2 i {
   color: #b700ba;
 }
-/* line 857, ../scss/partials/_modules.scss */
+/* line 869, ../scss/partials/_modules.scss */
 .features-boxes .box p {
   font-size: 16px;
 }

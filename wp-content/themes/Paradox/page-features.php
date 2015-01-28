@@ -39,7 +39,7 @@ Template Name: Features
 						<div class="col-sm-6">
 				  			<div class="box">                      
 								<h2><i class="fa fa-check-square fa-left"></i> Acoustic Guitar</h2>
-								<p>“Learn the acoustic parts exactly as they are on the recordings, with lessons for beginners or experts</p>
+								<p>Learn the acoustic parts exactly as they are on the recordings, with lessons for beginners or experts</p>
 				  			</div>               
 						</div>
 						<div class="col-sm-6">
@@ -151,7 +151,7 @@ Template Name: Features
 			<div class="col-md-5 col-md-offset-1">
 				<h3>See how easily you can improve your band with this tool</h2>            
 				<p>
-					Whether you’re an individual musician, or a worship leader seeking to equip your team, we have the tools to excellently prepare you for worship.  With tutorials, lessons, chord/number charts, and tabs, you can learn master your setlist with ease!” 
+					Whether you’re an individual musician, or a worship leader seeking to equip your team, we have the tools to excellently prepare you for worship.  With tutorials, lessons, chord/number charts, and tabs, you can master your setlist with ease!
 				</p>
 				<a href="#" class="btn btn-primary">
 					View Demo<i class="fa fa-play-circle fa-right"></i>

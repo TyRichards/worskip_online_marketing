@@ -11,7 +11,8 @@ Template Name: Home
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-6">
-                <div style="padding-top:250px; padding-bottom:250px; margin-right:30px" class="text-center">Image goes here</div>     
+                <!-- <div style="padding-top:250px; padding-bottom:250px; margin-right:30px" class="text-center"></div>      -->
+                <img class="img-responsive product" src="<?php echo get_template_directory_uri(); ?>/assets/images/devices01.png" alt="Worship Online">
             </div>
             <div class="col-md-5">
                 <h1 style="padding-top:60px;"><?php echo get_field('headline') ?></h1>
@@ -48,7 +49,7 @@ Template Name: Home
             <div class="col-md-5 col-md-offset-1">
                 <h3>See how easily you can improve your band with our tools</h2>            
                 <p>
-                    Whether you’re an individual musician, or a worship leader seeking to equip your team, we have the tools to excellently prepare you for worship. With tutorials, lessons, chord/number charts, and tabs, you can learn master your setlist with ease!” 
+                    Whether you’re an individual musician, or a worship leader seeking to equip your team, we have the tools to excellently prepare you for worship.  With tutorials, lessons, chord/number charts, and tabs, you can master your setlist with ease!
                 </p>
                 <a href="#" class="btn btn-primary">
                     View Demo<i class="fa fa-play-circle fa-right"></i>
