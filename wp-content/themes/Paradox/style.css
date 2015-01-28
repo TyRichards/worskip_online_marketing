@@ -10562,11 +10562,6 @@ Link: https://gist.github.com/jgarber/2302238
   margin-bottom: 0;
 }
 
-/* line 3, ../scss/partials/_modules.scss */
-body.page-template-page-home-php {
-  background: #1b1b1b url("../Paradox/assets/images/bg.jpg") right 0px no-repeat fixed;
-}
-
 /* line 4, ../scss/partials/_modules.scss */
 .page-template-page-features-php,
 .page-template-page-pricing-php {
