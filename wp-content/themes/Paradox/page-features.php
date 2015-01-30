@@ -10,12 +10,12 @@ Template Name: Features
   	<div class="container-fluid">
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
-				<h1 class="text-center title">Have a rehearsal you can be proud of</h1>
+				<h1 class="text-center title">Have rehearsals you can be proud of</h1>
 		  	</div>
 		</div>    
 		<div class="row">        
 			<div class="col-md-6">
-				<div style="padding-top:250px; padding-bottom:250px; margin-right:30px" class="text-center">Image goes here</div>     
+				<img class="img-responsive product product-1" src="<?php echo get_template_directory_uri(); ?>/assets/images/devices-feature1.png" alt="Worship Online">   
 			</div>         
 			<div class="col-md-6 features">
 		  		<div class="row">            
@@ -89,7 +89,7 @@ Template Name: Features
 				</div>
 		  	</div>	
 			<div class="col-md-6">
-				<div style="padding-top:250px; padding-bottom:250px; margin-right:30px" class="text-center">Image goes here</div>     
+				<img class="img-responsive product product-2" src="<?php echo get_template_directory_uri(); ?>/assets/images/devices-feature2.png" alt="Worship Online">     
 			</div> 		  		  	    
 		</div> <!-- .row -->
 
@@ -106,35 +106,33 @@ Template Name: Features
 				<a class="btn btn-lg btn-primary btn-block" style="margin-top:0">Start Your Free Trial<i class="fa fa-arrow-circle-right fa-right"></i></a>
 		  	</div> <!-- .col -->
 		</div> <!-- .row -->
+		
+
 		<div class="row">
+		  	<section class="main-col col-sm-8 col-sm-offset-2 page-content">                
+			  	<div id="main" class="site-main" role="main">
+				  	<?php 
+				  		while (have_posts()) {
+						the_post();
 
-		</div>  							
-	</div> <!-- .container -->    
-	<div class="row">
-	  <section class="main-col col-sm-8 col-sm-offset-2 page-content">                
-		  <div id="main" class="site-main" role="main">
-			  <?php 
-			  while (have_posts()) {
-				the_post();
+						get_template_part('content', 'page');
 
-				get_template_part('content', 'page');
+						echo "\n\n";
+					
+						// If comments are open or we have at least one comment, load up the comment template
+						if (comments_open() || '0' != get_comments_number()) {
+					  		comments_template();
+						}
 
-				echo "\n\n";
-				
-				// If comments are open or we have at least one comment, load up the comment template
-				if (comments_open() || '0' != get_comments_number()) {
-				  comments_template();
-				}
+						echo "\n\n";
 
-				echo "\n\n";
-
-			  } //endwhile;
-			  ?> 
-		  </div>           
-	  </section>  
-	</div>
-  </div>
-</section>
+				  	} //endwhile;
+				  	?> 
+			  	</div>           
+		  	</section>  <!-- .main-col -->
+		</div> <!-- .row -->
+	</div> <!-- .container -->    		
+</section> <!-- .block -->
 
 <section class="block bg-light blip" id="blip">           
 	<div class="container-fluid">
@@ -157,8 +155,8 @@ Template Name: Features
 					View Demo<i class="fa fa-play-circle fa-right"></i>
 				</a>               
 			</div>            
-		</div>
-	</div>
-</section>
+		</div> <!-- .row -->
+	</div> <!-- .container -->
+</section> <!-- .blip -->
 
 <?php get_footer(); ?> 

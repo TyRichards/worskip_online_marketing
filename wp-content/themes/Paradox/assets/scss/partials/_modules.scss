@@ -5,7 +5,8 @@ body.page-template-page-home-php { background: $body-bg url('../Paradox/assets/i
 // body.page-template-page-home-php { background-color: white; }
 
 .page-template-page-features-php,
-.page-template-page-pricing-php { background: $gray-darker url('../Paradox/assets/images/bg-es335-b.jpg') left 0px no-repeat fixed; }
+// .page-template-page-pricing-php { background: $gray-darker url('../Paradox/assets/images/bg-es335-b.jpg') left 0px no-repeat fixed; }
+.page-template-page-pricing-php { background: $gray-darker url('../Paradox/assets/images/bg-home.jpg') right 0px no-repeat fixed; }
 
 
 
@@ -202,6 +203,11 @@ header .navbar-brand {
 .blip {
     padding-top: 50px;
     padding-bottom: 90px;
+    background: #ffffff url('../Paradox/assets/images/bg-blip.jpg') left 0px no-repeat fixed!important;
+}
+
+.page-template-page-home-php .blip { 
+    background: $body-bg url('../Paradox/assets/images/bg-2.jpg') left 0px no-repeat fixed!important; 
 }
 
 // Sidebar Feature Image /////////////////////////////////////////////////////////////////
@@ -782,6 +788,14 @@ background: #000000;
 
 .home .masthead .product {
     margin-top: 50px;
+}
+
+.page-template-page-features-php .product.product-1 {
+    margin-top: -50px;
+}
+
+.page-template-page-features-php .product.product-2 {
+    margin-top: 75px;
 }
 
 // Quotes /////////////////
