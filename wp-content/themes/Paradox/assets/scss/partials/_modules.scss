@@ -1,6 +1,9 @@
 // Base Styles /////////////////////////////////////////////////////////////////
 
-// body.page-template-page-home-php { background: $body-bg url('../Paradox/assets/images/bg.jpg') right 0px no-repeat fixed; }
+body.page-template-page-home-php { background: $body-bg url('../Paradox/assets/images/bg-home.jpg') right 0px no-repeat fixed; }
+
+// body.page-template-page-home-php { background-color: white; }
+
 .page-template-page-features-php,
 .page-template-page-pricing-php { background: $gray-darker url('../Paradox/assets/images/bg-es335-b.jpg') left 0px no-repeat fixed; }
 
