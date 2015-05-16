@@ -388,7 +388,7 @@ body {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 17px;
   line-height: 1.8;
-  color: gray;
+  color: #a3a3a3;
   background-color: #1b1b1b;
 }
 
@@ -2628,7 +2628,7 @@ textarea.input-lg,
   display: block;
   margin-top: 5px;
   margin-bottom: 10px;
-  color: #bfbfbf;
+  color: #e3e3e3;
 }
 
 @media (min-width: 768px) {
@@ -5796,7 +5796,7 @@ a.list-group-item.active > .badge,
 /* line 27, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_thumbnails.scss */
 .thumbnail .caption {
   padding: 9px;
-  color: gray;
+  color: #a3a3a3;
 }
 
 /* line 34, ../../../../../../../../../../Library/Ruby/Gems/2.0.0/gems/bootstrap-sass-3.0.3.0/vendor/assets/stylesheets/bootstrap/_thumbnails.scss */
@@ -10826,7 +10826,7 @@ h1, .sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5, .sidebar h6 {
 }
 /* line 197, ../scss/partials/_modules.scss */
 .masthead p {
-  color: gray;
+  color: #a3a3a3;
   font-size: 16px;
 }
 
@@ -11087,132 +11087,133 @@ h1, h2, h3, h4, h5, h6 {
 /* line 430, ../scss/partials/_modules.scss */
 .block.bg-light {
   background-color: white !important;
+  color: gray;
 }
 /* line 431, ../scss/partials/_modules.scss */
 .block.bg-light h1, .block.bg-light h2, .block.bg-light h3, .block.bg-light h4, .block.bg-light h5, .block.bg-light h6 {
   color: #1b1b1b;
 }
 
-/* line 435, ../scss/partials/_modules.scss */
+/* line 436, ../scss/partials/_modules.scss */
 .title {
   margin-bottom: 85px;
 }
 
-/* line 438, ../scss/partials/_modules.scss */
+/* line 439, ../scss/partials/_modules.scss */
 .block.bg-dark h1, .block.bg-dark h2, .block.bg-dark h3, .block.bg-dark h4, .block.bg-dark h5, .block.bg-dark h6 {
   color: #ffffff;
 }
 
-/* line 441, ../scss/partials/_modules.scss */
+/* line 442, ../scss/partials/_modules.scss */
 .page-template-page-pricing-php .block,
 .page-template-page-features-php .block {
   background: transparent;
   padding-top: 40px;
 }
 
-/* line 444, ../scss/partials/_modules.scss */
+/* line 445, ../scss/partials/_modules.scss */
 #features3 {
   padding-top: 120px;
 }
 
-/* line 450, ../scss/partials/_modules.scss */
+/* line 451, ../scss/partials/_modules.scss */
 .dropdown-menu {
   -moz-border-radius: 0px 0px 4px 4px;
   -webkit-border-radius: 0px;
   border-radius: 0px 0px 4px 4px;
 }
-/* line 453, ../scss/partials/_modules.scss */
+/* line 454, ../scss/partials/_modules.scss */
 .dropdown-menu li {
   display: list-item;
 }
-/* line 456, ../scss/partials/_modules.scss */
+/* line 457, ../scss/partials/_modules.scss */
 .dropdown-menu li a {
   color: #cccccc;
 }
 
-/* line 466, ../scss/partials/_modules.scss */
+/* line 467, ../scss/partials/_modules.scss */
 .nav .menu-item .dropdown-menu .menu-item a {
   padding: 10px 30px;
   border-top: 1px solid #267db7;
 }
 
-/* line 472, ../scss/partials/_modules.scss */
+/* line 473, ../scss/partials/_modules.scss */
 .menu-item .dropdown-menu {
   padding: 0px 0px;
 }
 
-/* line 478, ../scss/partials/_modules.scss */
+/* line 479, ../scss/partials/_modules.scss */
 .body-content ul li:before {
   padding-right: 15px;
   color: #cccccc;
 }
 
-/* line 489, ../scss/partials/_modules.scss */
+/* line 490, ../scss/partials/_modules.scss */
 body.page-template-page-single-column-php .gform_heading {
   text-align: center !important;
 }
-/* line 491, ../scss/partials/_modules.scss */
+/* line 492, ../scss/partials/_modules.scss */
 body.page-template-page-single-column-php .gform_heading h3.gform_title {
   font-size: 54px !important;
   margin-bottom: 70px;
 }
 
-/* line 499, ../scss/partials/_modules.scss */
+/* line 500, ../scss/partials/_modules.scss */
 .ginput_complex input, .ginput_complex select {
   margin-bottom: 10px;
 }
 
-/* line 502, ../scss/partials/_modules.scss */
+/* line 503, ../scss/partials/_modules.scss */
 body .gform_wrapper .gfield_time_hour, body .gform_wrapper .gfield_time_minute, body .gform_wrapper .gfield_date_month, body .gform_wrapper .gfield_date_day, body .gform_wrapper .gfield_date_year {
   width: 62px;
   line-height: 2.5;
 }
 
-/* line 507, ../scss/partials/_modules.scss */
+/* line 508, ../scss/partials/_modules.scss */
 body .gform_wrapper .gfield_time_hour input, body .gform_wrapper .gfield_time_minute input, body .gform_wrapper .gfield_date_month input, body .gform_wrapper .gfield_date_day input, body .gform_wrapper .gfield_date_year input {
   width: 78% !important;
   display: inline;
 }
 
-/* line 512, ../scss/partials/_modules.scss */
+/* line 513, ../scss/partials/_modules.scss */
 body .gform_wrapper .gfield_time_ampm select {
   width: 70px !important;
 }
 
-/* line 516, ../scss/partials/_modules.scss */
+/* line 517, ../scss/partials/_modules.scss */
 body .gform_wrapper .top_label input.medium, .gform_wrapper .top_label select.medium {
   width: 100%;
 }
 
-/* line 518, ../scss/partials/_modules.scss */
+/* line 519, ../scss/partials/_modules.scss */
 .gform_wrapper ul {
   padding-left: inherit;
 }
 
-/* line 520, ../scss/partials/_modules.scss */
+/* line 521, ../scss/partials/_modules.scss */
 .ginput_container input, .ginput_container select, .ginput_container textarea {
   padding-left: 8px;
   padding-right: 8px;
 }
 
-/* line 528, ../scss/partials/_modules.scss */
+/* line 529, ../scss/partials/_modules.scss */
 .main-col #gform_wrapper_5 .gform_button, .main-col #gform_wrapper_5 .gform_title {
   margin-top: 0;
 }
 
-/* line 531, ../scss/partials/_modules.scss */
+/* line 532, ../scss/partials/_modules.scss */
 body .gform_heading h3.gform_title {
   font-size: 42px !important;
 }
 
-/* line 533, ../scss/partials/_modules.scss */
+/* line 534, ../scss/partials/_modules.scss */
 body .gform_wrapper .gform_footer {
   padding: 0 0 10px 0;
   margin: 0;
   clear: both;
 }
 
-/* line 540, ../scss/partials/_modules.scss */
+/* line 541, ../scss/partials/_modules.scss */
 .body-content .gform_body ul li:before {
   font-family: inherit;
   content: none;
@@ -11220,71 +11221,71 @@ body .gform_wrapper .gform_footer {
   color: inherit;
 }
 
-/* line 548, ../scss/partials/_modules.scss */
+/* line 549, ../scss/partials/_modules.scss */
 .gform_wrapper .top_label li.gfield.gf_left_half {
   float: left;
   clear: left !important;
 }
 
-/* line 553, ../scss/partials/_modules.scss */
+/* line 554, ../scss/partials/_modules.scss */
 .gform_wrapper .top_label li.gfield.gf_left_half {
   margin: 0 0 8px 0;
   width: 49%;
 }
 
-/* line 558, ../scss/partials/_modules.scss */
+/* line 559, ../scss/partials/_modules.scss */
 .gform_wrapper .top_label li.gfield.gf_left_half input.medium, .gform_wrapper .top_label li.gfield.gf_left_half input.large, .gform_wrapper .top_label li.gfield.gf_left_half select.medium, .gform_wrapper .top_label li.gfield.gf_left_half select.large, .gform_wrapper .top_label li.gfield.gf_right_half input.medium, .gform_wrapper .top_label li.gfield.gf_right_half input.large, .gform_wrapper .top_label li.gfield.gf_right_half select.medium, .gform_wrapper .top_label li.gfield.gf_right_half select.large {
   width: 97%;
 }
 
-/* line 562, ../scss/partials/_modules.scss */
+/* line 563, ../scss/partials/_modules.scss */
 .gform_wrapper .top_label li.gfield.gf_left_half + li.gfield, .gform_wrapper .top_label li.gfield.gf_right_half + li.gfield, .gform_wrapper .top_label li.gfield.gf_left_half + .gform_footer, .gform_wrapper .top_label li.gfield.gf_right_half + .gform_footer {
   clear: both;
 }
 
-/* line 566, ../scss/partials/_modules.scss */
+/* line 567, ../scss/partials/_modules.scss */
 .gform_wrapper .top_label li.gfield.gf_right_half {
   float: right;
   clear: right !important;
 }
 
-/* line 571, ../scss/partials/_modules.scss */
+/* line 572, ../scss/partials/_modules.scss */
 .gform_wrapper .top_label li.gfield.gf_right_half {
   margin: 0 0 8px 0;
   width: 49%;
 }
 
-/* line 579, ../scss/partials/_modules.scss */
+/* line 580, ../scss/partials/_modules.scss */
 .logos {
   background: #eeeeee;
   padding-top: 40px;
   padding-bottom: 40px;
   border-bottom: 1px solid #010101;
 }
-/* line 585, ../scss/partials/_modules.scss */
+/* line 586, ../scss/partials/_modules.scss */
 .logos .container .cred-logo.trec {
   padding-left: 50px;
   padding-right: 50px;
 }
 
-/* line 595, ../scss/partials/_modules.scss */
+/* line 596, ../scss/partials/_modules.scss */
 .body-content p, .body-content ul, .body-content ol {
   margin: 35px 0 0 0;
 }
 
-/* line 600, ../scss/partials/_modules.scss */
+/* line 601, ../scss/partials/_modules.scss */
 .lead {
   font-size: 18px;
   font-weight: normal;
 }
 
-/* line 609, ../scss/partials/_modules.scss */
+/* line 610, ../scss/partials/_modules.scss */
 .primary-content {
   z-index: 0;
   background-color: #ffffff;
   position: relative;
 }
-/* line 613, ../scss/partials/_modules.scss */
+/* line 614, ../scss/partials/_modules.scss */
 .primary-content .sidebar.background {
   display: block;
   opacity: 100;
@@ -11302,18 +11303,18 @@ body .gform_wrapper .gform_footer {
   -o-background-size: cover;
   background-size: cover;
 }
-/* line 635, ../scss/partials/_modules.scss */
+/* line 636, ../scss/partials/_modules.scss */
 .primary-content .sidebar.background .container {
   height: 100%;
   padding-top: 0;
   padding-bottom: 0;
 }
-/* line 640, ../scss/partials/_modules.scss */
+/* line 641, ../scss/partials/_modules.scss */
 .primary-content .sidebar.background .col-sm-4 {
   position: absolute;
   height: 100%;
 }
-/* line 643, ../scss/partials/_modules.scss */
+/* line 644, ../scss/partials/_modules.scss */
 .primary-content .sidebar.background .col-sm-4 div {
   position: absolute;
   right: 0;
@@ -11326,7 +11327,7 @@ body .gform_wrapper .gform_footer {
   -o-background-size: cover;
   background-size: cover;
 }
-/* line 654, ../scss/partials/_modules.scss */
+/* line 655, ../scss/partials/_modules.scss */
 .primary-content .sidebar.background .col-sm-4 div img {
   height: 100% !important;
   width: auto;
@@ -11334,47 +11335,47 @@ body .gform_wrapper .gform_footer {
   top: 0;
   right: 0;
 }
-/* line 663, ../scss/partials/_modules.scss */
+/* line 664, ../scss/partials/_modules.scss */
 .primary-content .sidebar.background .col-sm-4 .page-id-5 img, .primary-content .sidebar.background .col-sm-4 .page-id-7 img, .primary-content .sidebar.background .col-sm-4 .page-id-100 img {
   height: 700px !important;
 }
 
-/* line 671, ../scss/partials/_modules.scss */
+/* line 672, ../scss/partials/_modules.scss */
 .widget ul.menu {
   list-style: none;
   padding-left: 0;
 }
 
-/* line 676, ../scss/partials/_modules.scss */
+/* line 677, ../scss/partials/_modules.scss */
 .widget-title {
   color: #1b1b1b;
 }
 
-/* line 680, ../scss/partials/_modules.scss */
+/* line 681, ../scss/partials/_modules.scss */
 .body-content .widget {
   padding-bottom: 50px;
 }
 
-/* line 684, ../scss/partials/_modules.scss */
+/* line 685, ../scss/partials/_modules.scss */
 .sidebar .widget > div {
   margin-top: 25px;
 }
 
-/* line 688, ../scss/partials/_modules.scss */
+/* line 689, ../scss/partials/_modules.scss */
 .sidebar .widget div > ul, ol {
   padding-left: 0px;
 }
-/* line 691, ../scss/partials/_modules.scss */
+/* line 692, ../scss/partials/_modules.scss */
 .sidebar .widget div > ul li, ol li {
   margin-bottom: 10px;
 }
 
-/* line 696, ../scss/partials/_modules.scss */
+/* line 697, ../scss/partials/_modules.scss */
 .footer .widget {
   padding-bottom: 0px !important;
 }
 
-/* line 700, ../scss/partials/_modules.scss */
+/* line 701, ../scss/partials/_modules.scss */
 .widget_sp_image img {
   height: auto;
   -moz-border-radius: 3px;
@@ -11382,49 +11383,49 @@ body .gform_wrapper .gform_footer {
   border-radius: 3px;
 }
 
-/* line 705, ../scss/partials/_modules.scss */
+/* line 706, ../scss/partials/_modules.scss */
 .small-footer .menu li {
   display: inline;
 }
 
-/* line 711, ../scss/partials/_modules.scss */
+/* line 712, ../scss/partials/_modules.scss */
 .footer {
   background-color: #101010;
   z-index: 1000;
   color: gray;
 }
 
-/* line 719, ../scss/partials/_modules.scss */
+/* line 720, ../scss/partials/_modules.scss */
 .btn-clear {
   color: #ffffff;
   background-color: transparent;
   border: 2px solid white;
 }
-/* line 723, ../scss/partials/_modules.scss */
+/* line 724, ../scss/partials/_modules.scss */
 .btn-clear:hover {
   color: #000000;
   background-color: #ffffff;
 }
 
-/* line 729, ../scss/partials/_modules.scss */
+/* line 730, ../scss/partials/_modules.scss */
 .btn-clear.btn-primary, .archive .btn-clear.page-title, .gform_wrapper .btn-clear.gform_button, .btn-clear.more-link {
   color: #ffffff;
   background-color: transparent;
   border: 2px solid #b700ba;
 }
-/* line 733, ../scss/partials/_modules.scss */
+/* line 734, ../scss/partials/_modules.scss */
 .btn-clear.btn-primary:hover, .archive .btn-clear.page-title:hover, .gform_wrapper .btn-clear.gform_button:hover, .btn-clear.more-link:hover {
   color: #ffffff;
   background-color: #b700ba;
 }
 
-/* line 739, ../scss/partials/_modules.scss */
+/* line 740, ../scss/partials/_modules.scss */
 .btn-clear.btn, .btn-clear.gform_button, .archive .btn-clear.page-title, .btn-clear.more-link {
   padding-top: 7px;
   padding-bottom: 7px;
 }
 
-/* line 746, ../scss/partials/_modules.scss */
+/* line 747, ../scss/partials/_modules.scss */
 .btn-play {
   z-index: 1000;
   position: absolute;
@@ -11435,7 +11436,7 @@ body .gform_wrapper .gform_footer {
   margin-top: -40px;
 }
 
-/* line 756, ../scss/partials/_modules.scss */
+/* line 757, ../scss/partials/_modules.scss */
 .player {
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
@@ -11443,7 +11444,7 @@ body .gform_wrapper .gform_footer {
   background: #000000;
 }
 
-/* line 764, ../scss/partials/_modules.scss */
+/* line 765, ../scss/partials/_modules.scss */
 .flex-video {
   margin: 35px 0 0 0;
   background: #d5d5d5;
@@ -11451,7 +11452,7 @@ body .gform_wrapper .gform_footer {
   -webkit-border-radius: 3px;
   border-radius: 3px;
 }
-/* line 769, ../scss/partials/_modules.scss */
+/* line 770, ../scss/partials/_modules.scss */
 .flex-video img {
   position: absolute;
   top: 0;
@@ -11459,7 +11460,7 @@ body .gform_wrapper .gform_footer {
   width: 100%;
   height: 100%;
 }
-/* line 777, ../scss/partials/_modules.scss */
+/* line 778, ../scss/partials/_modules.scss */
 .flex-video iframe {
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
@@ -11467,41 +11468,41 @@ body .gform_wrapper .gform_footer {
   padding: 5px;
 }
 
-/* line 783, ../scss/partials/_modules.scss */
+/* line 784, ../scss/partials/_modules.scss */
 .flex-video.widescreen {
   padding-bottom: 56%;
 }
 
-/* line 789, ../scss/partials/_modules.scss */
+/* line 790, ../scss/partials/_modules.scss */
 .home .masthead .product {
   margin-top: 50px;
 }
 
-/* line 793, ../scss/partials/_modules.scss */
+/* line 794, ../scss/partials/_modules.scss */
 .page-template-page-features-php .product.product-1 {
   margin-top: -50px;
 }
 
-/* line 797, ../scss/partials/_modules.scss */
+/* line 798, ../scss/partials/_modules.scss */
 .page-template-page-features-php .product.product-2 {
   margin-top: 75px;
 }
 
-/* line 803, ../scss/partials/_modules.scss */
+/* line 804, ../scss/partials/_modules.scss */
 .quotes p:first-child {
   margin-top: 0;
 }
 
-/* line 810, ../scss/partials/_modules.scss */
+/* line 811, ../scss/partials/_modules.scss */
 .plan-2 .panel-heading {
   background-color: #b700ba !important;
 }
-/* line 811, ../scss/partials/_modules.scss */
+/* line 812, ../scss/partials/_modules.scss */
 .plan-2 .call-to-action .btn, .plan-2 .call-to-action .gform_button, .plan-2 .call-to-action .archive .page-title, .archive .plan-2 .call-to-action .page-title, .plan-2 .call-to-action .more-link {
   background-color: #b700ba !important;
 }
 
-/* line 814, ../scss/partials/_modules.scss */
+/* line 815, ../scss/partials/_modules.scss */
 .plan input {
   text-align: center;
   border: none;
@@ -11512,12 +11513,12 @@ body .gform_wrapper .gform_footer {
   height: 30px;
   font-weight: bold;
 }
-/* line 823, ../scss/partials/_modules.scss */
+/* line 824, ../scss/partials/_modules.scss */
 .plan input::-webkit-input-placeholder {
   color: #b700ba;
   font-style: italic;
 }
-/* line 827, ../scss/partials/_modules.scss */
+/* line 828, ../scss/partials/_modules.scss */
 .plan input:focus {
   border-color: none;
   outline: 0;
@@ -11525,95 +11526,95 @@ body .gform_wrapper .gform_footer {
   box-shadow: none;
 }
 
-/* line 835, ../scss/partials/_modules.scss */
+/* line 836, ../scss/partials/_modules.scss */
 .plan-2 ul.features li:first-child {
   background-color: #FFFED0;
 }
 
-/* line 839, ../scss/partials/_modules.scss */
+/* line 840, ../scss/partials/_modules.scss */
 input:focus::-webkit-input-placeholder {
   color: transparent;
 }
 
-/* line 840, ../scss/partials/_modules.scss */
+/* line 841, ../scss/partials/_modules.scss */
 input:focus:-moz-placeholder {
   color: transparent;
 }
 
 /* FF 4-18 */
-/* line 841, ../scss/partials/_modules.scss */
+/* line 842, ../scss/partials/_modules.scss */
 input:focus::-moz-placeholder {
   color: transparent;
 }
 
 /* FF 19+ */
-/* line 842, ../scss/partials/_modules.scss */
+/* line 843, ../scss/partials/_modules.scss */
 input:focus:-ms-input-placeholder {
   color: transparent;
 }
 
-/* line 844, ../scss/partials/_modules.scss */
+/* line 845, ../scss/partials/_modules.scss */
 .panel-default {
   border: none;
 }
-/* line 846, ../scss/partials/_modules.scss */
+/* line 847, ../scss/partials/_modules.scss */
 .panel-default .panel-heading {
   background-color: #6c006e;
   border-color: #6c006e;
 }
-/* line 849, ../scss/partials/_modules.scss */
+/* line 850, ../scss/partials/_modules.scss */
 .panel-default .panel-heading h3 {
   margin-top: 15px;
   margin-bottom: 11px;
 }
-/* line 852, ../scss/partials/_modules.scss */
+/* line 853, ../scss/partials/_modules.scss */
 .panel-default .panel-body .price {
   color: #101010;
   font-size: 60px;
   margin-top: 10px;
 }
-/* line 856, ../scss/partials/_modules.scss */
+/* line 857, ../scss/partials/_modules.scss */
 .panel-default .panel-body .price span {
   font-size: 16px;
   vertical-align: 27px;
 }
-/* line 858, ../scss/partials/_modules.scss */
+/* line 859, ../scss/partials/_modules.scss */
 .panel-default .panel-body ul.features {
   list-style: none;
   padding-left: 0;
   margin-top: 18px;
 }
-/* line 862, ../scss/partials/_modules.scss */
+/* line 863, ../scss/partials/_modules.scss */
 .panel-default .panel-body ul.features li {
   border-bottom: 1px solid #cccccc;
   padding-top: 7px;
   padding-bottom: 7px;
 }
-/* line 866, ../scss/partials/_modules.scss */
+/* line 867, ../scss/partials/_modules.scss */
 .panel-default .panel-body ul.features li:first-child {
   border-top: 1px solid #cccccc;
 }
-/* line 869, ../scss/partials/_modules.scss */
+/* line 870, ../scss/partials/_modules.scss */
 .panel-default .panel-body .call-to-action .btn, .panel-default .panel-body .call-to-action .gform_button, .panel-default .panel-body .call-to-action .archive .page-title, .archive .panel-default .panel-body .call-to-action .page-title, .panel-default .panel-body .call-to-action .more-link {
   background-color: #6c006e;
 }
 
-/* line 877, ../scss/partials/_modules.scss */
+/* line 878, ../scss/partials/_modules.scss */
 .features-boxes .box {
   padding-right: 20px;
   padding-left: 20px;
   padding-bottom: 70px;
 }
-/* line 881, ../scss/partials/_modules.scss */
+/* line 882, ../scss/partials/_modules.scss */
 .features-boxes .box h2 {
   font-size: 28px;
   margin-top: 0;
 }
-/* line 884, ../scss/partials/_modules.scss */
+/* line 885, ../scss/partials/_modules.scss */
 .features-boxes .box h2 i {
   color: #b700ba;
 }
-/* line 886, ../scss/partials/_modules.scss */
+/* line 887, ../scss/partials/_modules.scss */
 .features-boxes .box p {
   font-size: 16px;
 }

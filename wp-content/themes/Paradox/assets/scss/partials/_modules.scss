@@ -194,7 +194,7 @@ header .navbar-brand {
     h1, h2, h3, h4, h5, h6 { color: #ffffff; line-height: 0.9; }
     h1 { margin-top: 0; font-size: 44px; }
     h2 { font-size: 24px; margin-top: 35px!important; }
-    p { color: $brand-light; font-size: 16px; }
+    p { color: $text-color; font-size: 16px; }
     // p.lead { margin-top: 0; }
 }
 
@@ -430,6 +430,7 @@ h1, h2, h3, h4, h5, h6 {
 .block.bg-light { 
     h1, h2, h3, h4, h5, h6 { color: $body-bg; }
     background-color: #ffffff!important;
+    color: $gray-light;
 }
 
 .title { margin-bottom: 85px; }
