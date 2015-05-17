@@ -8,6 +8,15 @@ body.page-template-page-home-php { background: $body-bg url('../Paradox/assets/i
 // .page-template-page-pricing-php { background: $gray-darker url('../Paradox/assets/images/bg-es335-b.jpg') left 0px no-repeat fixed; }
 .page-template-page-pricing-php { background: $gray-darker url('../Paradox/assets/images/bg-home.jpg') right 0px no-repeat fixed; }
 
+.page-template-page-pricing-php {
+    .block { 
+        h1.title { margin-bottom: 40px; }
+        .lead { margin-bottom: 60px; }
+        .custom-desc h4 { 
+            margin: 20px 0 20px 0;
+        } 
+    }
+}
 
 
 .bg-light {
@@ -801,8 +810,10 @@ background: #000000;
 
 // Quotes /////////////////
 
-.quotes p:first-child {
-    margin-top: 0;
+.quotes {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    p:first-child { margin-top: 0; }
 }
 
 // Pricing Page /////////////////////////////////////////////
@@ -834,7 +845,7 @@ background: #000000;
 }
 
 .plan-2 ul.features li:first-child {
-    background-color: #FFFED0;
+    // background-color: #FFFED0;
 }
 
 input:focus::-webkit-input-placeholder { color:transparent; }
@@ -843,18 +854,28 @@ input:focus::-moz-placeholder { color:transparent; } /* FF 19+ */
 input:focus:-ms-input-placeholder { color:transparent; }
 
 .panel-default {
-    border: none;    
+    border: none;
+    color: $gray-light;  
+    background: transparent;  
     .panel-heading {
         background-color: darken($brand-primary, 15%);
-        border-color: darken($brand-primary, 15%);
-        h3 { margin-top: 15px; margin-bottom: 11px; }
+        border-right: 1px solid #4E034F;
+        border-bottom: none;        
+        h3 { 
+            margin-top: 15px; 
+            margin-bottom: 11px; 
+            font-size: 16px;      
+            text-transform: uppercase;            
+        }
     }
     .panel-body {
+        background: #ffffff;
+        border-right: 1px solid #eeeeee;        
         .price {
             color: $gray-darker;
-            font-size: 60px;     
+            font-size: 38px;  
             margin-top: 10px;       
-            span { font-size: 16px; vertical-align: 27px; }
+            span { font-size: 16px; vertical-align: 7px; }
         }
         ul.features {
             list-style: none;
@@ -868,6 +889,32 @@ input:focus:-ms-input-placeholder { color:transparent; }
             }            
         }
         .call-to-action .btn { background-color: darken($brand-primary, 15%); }
+    }
+}
+
+.plan-desc {    
+    .panel-default {
+        color: #ffffff;
+        .panel-heading {
+            border: none;
+            h3 { text-transform: none; }   
+        } 
+        .panel-body {
+            border: none;
+            font-size: 12px;            
+            .price {                
+                font-size: inherit;
+                color: #ffffff;
+                line-height: 41px;
+                border: none; 
+            }
+            .features li { 
+                line-height: 31px; 
+                border: none; 
+                &:first-child { border: none; }
+            }
+
+        }
     }
 }
 
