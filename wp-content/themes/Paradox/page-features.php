@@ -11,6 +11,7 @@ Template Name: Features
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
 				<h1 class="text-center title">Have rehearsals you can be proud of</h1>
+				
 		  	</div>
 		</div>    
 		<div class="row">        
