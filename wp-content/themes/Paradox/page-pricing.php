@@ -149,6 +149,7 @@ Template Name: Pricing
         <div class="row">
             <div class="col-sm-4 quotes">
                 <p><i>"It’s like hiring a music director for only pennies a month."</i><br>— WO Customer</p>
+                
             </div>
             <div class="col-sm-4 quotes">
                 <p><i>"I can’t explain the feeling when all of your musicians show up knowing the songs perfectly! You have to try it!"</i><br>— WO Customer</p>
