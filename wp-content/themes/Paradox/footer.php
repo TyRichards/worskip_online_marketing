@@ -21,9 +21,9 @@
 	        	</div> <!-- .container -->
 	        </section>	
       		<section class="credit-footer background-dark">
-      			<div class="container">		        
+      			<div class="container-fluid">		        
 					<div class="row">
-			        	<div class="col-md-4">
+			        	<div class="col-sm-4">
 			        		<div class="pull-left footer-credits">		        			
 			        			<small>
 			        				<a href="<?php echo esc_url(home_url('/')); ?>">
@@ -32,18 +32,18 @@
 			        			</small>		        			
 			        		</div>			
 			        	</div>	        	
-			        	<div class="col-md-4 text-center">
+			        	<div class="col-sm-4 text-center">
 			        		<ul class="list-inline">
-			        			<li><a href="googleplus.com" title="Google Plus"><i class="fa fa-instagram fa-2x"></i></a></li>
-			        			<li><a href="twitter.com" title="Twitter"><i class="fa fa-twitter fa-2x"></i></a></li>
-			        			<li><a href="facebook" title="Facebook"><i class="fa fa-facebook fa-2x"></i></a></li>
-			        			<li><a href="linkedin" title="LinkedIn"><i class="fa fa-youtube fa-2x"></i></a></li>
+			        			<li><a href="https://instagram.com/worshiponline" title="Instagram"><i class="fa fa-instagram fa-2x"></i></a></li>
+			        			<li><a href="https://twitter.com/worshiponline" title="Twitter"><i class="fa fa-twitter fa-2x"></i></a></li>
+			        			<li><a href="https://www.facebook.com/WorshipOnline" title="Facebook"><i class="fa fa-facebook fa-2x"></i></a></li>
+			        			<li><a href="http://youtube.com/worshiponline" title="YouTube"><i class="fa fa-youtube fa-2x"></i></a></li>
 			        		</ul>
 			        	</div>
-		        		<div class="col-md-4">
-			        		<div class="pull-right footer-credits text-right">
+		        		<div class="col-sm-4">
+			        		<div class="pull-right footer-paradox text-right">
 			        			<a href="http://paradoxcreative.com" target="_blank">
-			        				<small>Site crafted by Paradox</small>
+			        				<img class="img-responsive" width="135" height="27" src="<?php echo get_template_directory_uri(); ?>/assets/images/paradox-footer.png" />
 			        			</a>
 			        		</div>
 			        	</div>				        	

@@ -6,6 +6,8 @@
 // Small devices (tablets, 768px and up)
 @media (min-width: $screen-sm-min) {
 
+    .footer-credits { text-align: inherit; }    
+
     .navbar-collapse .navbar-nav li {
        border: none;
     }
@@ -44,8 +46,36 @@
     .plan-row .col-md-2 { padding-left: 0; padding-right: 0; }
 
     header .navbar-brand img {
-        width: 100%;
+        // width: 100%;
     }    
+
+    .page-template-page-features .body-content .block-first {
+        padding-top: 40px;
+    }    
+
+    .navbar-header {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .footer-credits {        
+        margin-bottom: inherit;        
+    }
+
+    body ul#menu-header-menu { margin-bottom: 0; }    
+
+    .top-navbar {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }    
+
+    body .navbar-collapse .navbar-nav {
+        background-color: transparent!important;
+        li {
+            border-bottom: none;
+            text-align: inherit;
+        }
+    }        
 
     .logos .container .cred-logo {
         padding-left: 30px;
@@ -63,12 +93,31 @@
 // Exclusive Media Queries /////////////////////////////////////////////////////////////////
 
 // Extra small devices only (phones, less than 768px)
-@media (max-width: $screen-xs-max) {
+@media (max-width: $screen-xs-max) { 
+
+    .footer-paradox { 
+        float: none!important; 
+        margin: 24px 0; 
+        a img { margin: 0 auto; }
+    }    
+
+    .page-template-page-features-php .product.product-2 {
+        margin-top: 0;
+    }    
+
+    .features-boxes {
+        margin-top: 0!important;
+        .box {
+            padding-bottom: 40px;
+        }    
+    }
 
     .clipboard-icon {        
         padding-left: 109px;
         padding-top: 13px;        
     }
+
+    .credit-footer { padding-bottom: 135px }    
 
     .footer-logo {
         padding-bottom: $space-sm;
@@ -122,19 +171,29 @@
     }        
     
     .navbar-header .navbar-brand {
-        width: 100%;
+        // width: 100%;
     }
 
     .no-float-xs {
         float: none!important;
     }
-
-
+    .block {
+        padding-top: 70px!important;
+        padding-bottom: 70px!important;
+    }        
 
 }
 
 // Small devices only (tablets, 768px to 992px)
 @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+
+    .credit-footer { padding-bottom: 135px }    
+
+    // .footer-paradox { 
+    //     float: none!important; 
+    //     margin: 24px 0; 
+    //     a img { margin: 0 auto; }
+    // }
 
     .col-no-padding-sm {
         padding-left: 0px;
@@ -144,10 +203,15 @@
     .no-float-sm {
         float: none!important;
     }      
+    
+    .block {
+      padding-top: 70px!important;
+      padding-bottom: 70px!important;
+    }    
 }
 
 // Medium devices only (desktops, 992px to 1200px)
-@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {    
 
     .col-no-padding-md {
         padding-left: 0px;

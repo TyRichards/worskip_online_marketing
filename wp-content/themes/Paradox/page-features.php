@@ -6,7 +6,7 @@ Template Name: Features
 
 <?php get_header(); ?>
 
-<section class="block bg-dark" style="padding-bottom:50px;">           
+<section class="block block-first bg-dark" style="padding-bottom:50px;">           
   	<div class="container-fluid">
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">

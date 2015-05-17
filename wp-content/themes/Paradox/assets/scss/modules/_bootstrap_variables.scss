@@ -271,8 +271,8 @@ $dropdown-link-active-bg:        inherit;
 
 // // Medium screen / desktop
 // // Note: Deprecated $screen-md and $screen-desktop as of v3.0.1
-// $screen-md:                  992px;
-// $screen-md-min:              $screen-md;
+$screen-md:                  992px;
+$screen-md-min:              $screen-md;
 // $screen-desktop:             $screen-md-min;
 
 // // Large screen / wide desktop
@@ -297,9 +297,9 @@ $dropdown-link-active-bg:        inherit;
 // $grid-gutter-width:         30px;
 // // Navbar collapse
 // //** Point at which the navbar becomes uncollapsed.
-// $grid-float-breakpoint:     $screen-sm-min;
+$grid-float-breakpoint:     $screen-md-min;
 // //** Point at which the navbar begins collapsing.
-// $grid-float-breakpoint-max: ($grid-float-breakpoint - 1);
+$grid-float-breakpoint-max: ($grid-float-breakpoint - 1);
 
 
 // //== Container sizes
