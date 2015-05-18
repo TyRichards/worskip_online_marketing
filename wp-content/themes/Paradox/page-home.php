@@ -60,7 +60,7 @@ Template Name: Home
 </section>
 
 <section class="block bg-light" id="features"> 
-    <div class="bg-image"></div>          
+    <div class="bg-image bg-features"></div>          
     <div class="container-fluid">
         <div class="row">           
             <div class="col-sm-8 col-sm-offset-2 col-md-offset-6 col-md-5">

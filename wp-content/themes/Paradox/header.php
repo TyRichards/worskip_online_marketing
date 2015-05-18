@@ -108,10 +108,15 @@
 			<section class="container-fluid mobile-landing visible-xs visible-sm">
 		<?php } ?>										
 				<div class="row">
-				    <div class="col-xs-12 call-to-action">
-					    <a class="btn btn-primary btn-block" href="/pricing">					        
-					        Start Free Trial <i class="fa fa-arrow-circle-right fa-right"></i>
+				    <div class="col-xs-6 call-to-action" style="padding-right:5px;">
+					    <a class="btn btn-sm btn-primary btn-block" style="padding-left:5px; padding-right: 5px;" href="http://worshiponline.com/pricing">				
+					        Start Free Trial
 					    </a>
 				    </div>
+					<div class="col-xs-6 call-to-action" style="padding-left:5px;">
+						<a class="btn btn-sm btn-clear btn-block" href="http://app.worshiponline.com/signin">
+							Sign in
+						</a>	
+				    </div>					    
 				</div>				
 			</section>			

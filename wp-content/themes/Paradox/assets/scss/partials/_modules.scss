@@ -282,6 +282,8 @@ a.btn i.fa {
 margin-right: 15px;
 }
 
+.btn-sm { padding: 4px 24px!important; }
+
 .btn-secondary {
 color: $btn-secondary-color;
 background-color: $btn-secondary-bg;
@@ -348,6 +350,7 @@ ul#menu-header-menu { margin-bottom: 15px; }
     background-color: #1b1b1b;
     li {
         border-bottom: 1px solid #000000;
+        border-top: 1px solid #272727;
         text-align: center;
     }
 }
