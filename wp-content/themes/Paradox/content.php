@@ -33,9 +33,9 @@
 	</div><!-- .entry-content -->
 	<?php } //endif; ?> 
 
-	<div class="well well-lg text-center">
-			<?php gravity_form(5, true, true, false, null, true, 50); ?>
-	</div>	
+<!-- 	<div class="well well-lg text-center">
+			<?php // gravity_form(5, true, true, false, null, true, 50); ?>
+	</div>	 -->
 
 	<footer class="entry-meta">
 		<?php if ('post' == get_post_type()) { // Hide category and tag text for pages on Search ?> 
