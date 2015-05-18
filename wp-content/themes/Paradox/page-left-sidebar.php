@@ -1,8 +1,4 @@
-<?php
-/*
-Template Name: Left Sidebar
-*/
-?>
+<!-- Add left sidebar comment later -->
 
 <?php get_header(); ?>
 
