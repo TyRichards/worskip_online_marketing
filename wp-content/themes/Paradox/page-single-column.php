@@ -7,9 +7,9 @@ Template Name: Single Column
 <?php get_header(); ?>
 
 <section class="primary-content">           
-  <div class="container">
+  <div class="container-fluid">
     <div class="row">
-      <section class="main-col col-sm-6 col-sm-offset-3 page-content">                
+      <section class="main-col col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 page-content">                
           <div id="main" class="site-main" role="main">
               <?php 
               while (have_posts()) {

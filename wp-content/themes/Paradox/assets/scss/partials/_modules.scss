@@ -9,6 +9,7 @@ body.page-template-page-home-php { background: $body-bg url('../Paradox/assets/i
 .page-template-page-pricing-php { background: $gray-darker url('../Paradox/assets/images/bg-home.jpg') right 0px no-repeat fixed; }
 
 .page-template-page-pricing-php {
+    .container { width: 1170px!important; }    
     .block { 
         h1.title { margin-bottom: 40px; }
         .lead { margin-bottom: 60px; }
@@ -370,6 +371,8 @@ color: #ffffff!important;
 .blog, .archive {
     footer.entry-meta { display: none; }
 } 
+
+.plan-row .plan { padding-left: 0; padding-right: 0; }
 
 .archive .page-title {
     @extend .btn, .btn-lg, .btn-primary, .btn-block;

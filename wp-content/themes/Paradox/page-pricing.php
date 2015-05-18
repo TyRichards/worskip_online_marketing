@@ -9,13 +9,13 @@ Template Name: Pricing
 <section class="block bg-dark" style="padding-bottom:50px;">           
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-xs-12">
                 <h1 class="text-center title">Get a smoother rehearsal and a tighter band</h1>
                 <p class="text-center lead"><a class="lightbox" href="https://www.youtube.com/watch?v=TCo-Gbeq_bU"><i class="fa fa-youtube-play"></i> How do team plans work?</a></p>
             </div>
         </div>
         <div class="row plan-row"> 
-            <div class="col-md-2 plan-desc">
+            <div class="col-xs-2 plan-desc">
                 <div class="panel panel-default text-right">
                     <div class="panel-heading" style="background:transparent;">
                         <h3>&nbsp;</h3>                        
@@ -33,7 +33,7 @@ Template Name: Pricing
                     </div> <!-- .panel-body -->
                 </div> <!-- .panel -->
             </div> <!-- .col -->                               
-            <div class="col-md-2 plan-1">
+            <div class="col-xs-2 plan plan-1">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h3>Solo</h3>                        
@@ -54,7 +54,7 @@ Template Name: Pricing
                     </div> <!-- .panel-body -->
                 </div> <!-- .panel -->
             </div> <!-- .col -->
-            <div class="col-md-2 plan plan-2">
+            <div class="col-xs-2 plan plan-2">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h3>Small Team</h3>                        
@@ -76,7 +76,7 @@ Template Name: Pricing
                     </div> <!-- .panel-body -->
                 </div> <!-- .panel -->
             </div> <!-- .col --> 
-            <div class="col-md-2 plan-3">
+            <div class="col-xs-2 plan plan-3">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h3>Medium Team</h3>                        
@@ -97,7 +97,7 @@ Template Name: Pricing
                     </div> <!-- .panel-body -->
                 </div> <!-- .panel -->
             </div> <!-- .col -->    
-           <div class="col-md-2 plan-4">
+           <div class="col-xs-2 plan plan-4">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h3>Large Team</h3>                        
@@ -118,7 +118,7 @@ Template Name: Pricing
                     </div> <!-- .panel-body -->
                 </div> <!-- .panel -->
             </div> <!-- .col -->   
-           <div class="col-md-2 plan-5">
+           <div class="col-xs-2 plan plan-5">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h3>XLarge Team</h3>                        
@@ -141,20 +141,20 @@ Template Name: Pricing
             </div> <!-- .col -->   
         </div> <!-- .row -->
         <div class="row custom-desc">
-            <div class="col-sm-10 col-sm-offset-2">
+            <div class="col-xs-10 col-xs-offset-2">
                 <h4 class="text-center"><i class="fa fa-info-circle"></i> If you need a larger custom plan, please <a href="/support">send us a message</a>.</h4>
             </div>
         </div>
         <hr />
         <div class="row">
-            <div class="col-sm-4 quotes">
+            <div class="col-xs-4 quotes">
                 <p><i>"It’s like hiring a music director for only pennies a month."</i><br>— WO Customer</p>
-                
+
             </div>
-            <div class="col-sm-4 quotes">
+            <div class="col-xs-4 quotes">
                 <p><i>"I can’t explain the feeling when all of your musicians show up knowing the songs perfectly! You have to try it!"</i><br>— WO Customer</p>
             </div>
-            <div class="col-sm-4 quotes">
+            <div class="col-xs-4 quotes">
                 <p><i>“Me and the other guitar player are in perfect sync, I’m having more fun than ever, and the band is benefiting big time!"</i><br>— WO Customer</p>
             </div>   
         </div>
@@ -162,9 +162,9 @@ Template Name: Pricing
 </section>
 
 <section class="block bg-light blip" id="blip">           
-    <div class="container-fluid">
+    <div class="container">
         <div class="row">           
-            <div class="col-md-offset-1 col-md-4">
+            <div class="col-xs-offset-1 col-xs-4">
                 <h3>Have rehearsals you can be proud of</h2>            
                 <p>
                     Imagine walking into rehearsal and every musician on stage knows their part for every song.  Rehearsal goes by like a breeze and that means more time to relax in prayer.
@@ -173,7 +173,7 @@ Template Name: Pricing
                     Learn More<i class="fa fa-arrow-circle-right fa-right"></i>
                 </a>
             </div>
-            <div class="col-md-5 col-md-offset-1">
+            <div class="col-xs-5 col-xs-offset-1">
                 <h3>See how easily you can improve your band with this tool</h2>            
                 <p>
                     Whether you’re an individual musician, or a worship leader seeking to equip your team, we have the tools to excellently prepare you for worship.  With tutorials, lessons, chord/number charts, and tabs, you can master your setlist with ease!
