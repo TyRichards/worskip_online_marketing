@@ -34,7 +34,7 @@
 	<?php } //endif; ?> 
 
 <!-- 	<div class="well well-lg text-center">
-			<?php // gravity_form(5, true, true, false, null, true, 50); ?>
+			 <?php // gravity_form(5, true, true, false, null, true, 50); ?>
 	</div>	 -->
 
 	<footer class="entry-meta">
