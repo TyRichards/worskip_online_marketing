@@ -226,6 +226,8 @@
 // Large devices only (large desktops, 1200px and up)
 @media (min-width: $screen-lg-min) {
 
+    .container, .container-fluid { width: 1170px!important; }  
+
     .col-no-padding-lg {
         padding-left: 0px;
         padding-right: 0px;

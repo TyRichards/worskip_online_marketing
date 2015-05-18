@@ -33,7 +33,8 @@ Template Name: Home
     </div>
 </section>
 
-<section class="block bg-dark blip" id="blip" style="padding-top:130px; padding-bottom:200px;">           
+<section class="block bg-dark blip" id="blip" style="padding-top:130px; padding-bottom:200px;">  
+    <div class="bg-image bg-blip"></div>   
     <div class="container-fluid">
         <div class="row">           
             <div class="col-sm-offset-1 col-sm-4">
@@ -58,7 +59,8 @@ Template Name: Home
     </div>
 </section>
 
-<section class="block bg-light" id="features">           
+<section class="block bg-light" id="features"> 
+    <div class="bg-image"></div>          
     <div class="container-fluid">
         <div class="row">           
             <div class="col-sm-8 col-sm-offset-2 col-md-offset-6 col-md-5">
@@ -78,7 +80,8 @@ Template Name: Home
     </div>
 </section>
 
-<section class="block bg-dark" id="features2">           
+<section class="block bg-dark" id="features2"> 
+    <div class="bg-image"></div>          
     <div class="container-fluid">
         <div class="row">            
             <div class="col-sm-8 col-sm-offset-2 col-md-offset-1 col-md-5">
@@ -95,7 +98,8 @@ Template Name: Home
     </div>
 </section>
 
-<section class="block bg-light" id="features3">           
+<section class="block bg-light" id="features3">  
+    <div class="bg-image"></div>         
     <div class="container-fluid">     
         <div class="row">
             <div class="col-sm-8 col-sm-offset-2 col-md-offset-6 col-md-5">
@@ -115,7 +119,8 @@ Template Name: Home
     </div>
 </section>
 
-<section class="block bg-dark" id="features4">           
+<section class="block bg-dark" id="features4"> 
+    <div class="bg-image"></div>          
     <div class="container-fluid">
         <div class="row">            
             <div class="col-sm-8 col-sm-offset-2 col-md-offset-6 col-md-5">

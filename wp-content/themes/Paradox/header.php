@@ -61,6 +61,7 @@
 		<![endif]-->	
 		
 		<?php do_action('before'); ?> 
+		<div class="bg-image bg-bg"></div>
 		<header>				
 			<section class="top-navbar top">				
 				<nav class="navbar navbar-default" role="navigation">					
