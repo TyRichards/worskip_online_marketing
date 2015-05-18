@@ -11031,11 +11031,6 @@ ul#menu-header-menu {
   margin-top: 0;
 }
 
-/* line 387, ../scss/partials/_modules.scss */
-.wistia_embed {
-  outline: 5px solid #ddd;
-}
-
 /* line 393, ../scss/partials/_modules.scss */
 .page-header {
   margin: 0 0 40px 0;
