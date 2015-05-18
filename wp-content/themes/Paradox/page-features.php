@@ -11,14 +11,14 @@ Template Name: Features
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
 				<h1 class="text-center title">Have rehearsals you can be proud of</h1>
-				
+
 		  	</div>
 		</div>    
 		<div class="row">        
-			<div class="col-md-6">
+			<div class="col-sm-4">
 				<img class="img-responsive product product-1" src="<?php echo get_template_directory_uri(); ?>/assets/images/devices-feature1.png" alt="Worship Online">   
 			</div>         
-			<div class="col-md-6 features">
+			<div class="col-sm-8 features">
 		  		<div class="row">            
 			  		<div class="features-boxes">
 						<div class="col-sm-6">
@@ -55,7 +55,7 @@ Template Name: Features
 		</div> <!-- .row -->
 
 		<div class="row">                
-			<div class="col-md-6 features">
+			<div class="col-sm-8 features">
 		  		<div class="row">            
 			  		<div class="features-boxes" style="margin-top:50px;">
 						<div class="col-sm-6">
@@ -89,7 +89,7 @@ Template Name: Features
 			  		</div>						
 				</div>
 		  	</div>	
-			<div class="col-md-6">
+			<div class="col-sm-4">
 				<img class="img-responsive product product-2" src="<?php echo get_template_directory_uri(); ?>/assets/images/devices-feature2.png" alt="Worship Online">     
 			</div> 		  		  	    
 		</div> <!-- .row -->
