@@ -63,8 +63,12 @@
 		<?php do_action('before'); ?> 
 		<header>				
 			<section class="top-navbar top">				
-				<nav class="navbar navbar-default" role="navigation">
-					<div class="container-fluid">						
+				<nav class="navbar navbar-default" role="navigation">					
+				<?php if( is_page_template( 'page-pricing.php' ) ){ ?>
+					<div class="container">	
+				<?php } else { ?>
+					<div class="container-fluid">	
+				<?php } ?>
 						<div class="navbar-header">																	
 							<button type="button" class="navbar-toggle navbar-right" data-toggle="collapse" data-target=".navbar-primary-collapse">
 								<span class="sr-only"><?php _e('Toggle navigation', 'bootstrap-basic'); ?></span>
@@ -97,7 +101,11 @@
 		<div class="body-content">
 
 			<!-- Mobile Landing Section -->
-			<section class="container-fluid mobile-landing visible-xs visible-sm">				
+		<?php if( is_page_template( 'page-pricing.php' ) ){ ?>
+			<section class="container mobile-landing visible-xs visible-sm">
+		<?php } else { ?>
+			<section class="container-fluid mobile-landing visible-xs visible-sm">
+		<?php } ?>										
 				<div class="row">
 				    <div class="col-xs-12 call-to-action">
 					    <a class="btn btn-primary btn-block" href="/pricing">					        

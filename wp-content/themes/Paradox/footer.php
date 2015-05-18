@@ -20,8 +20,8 @@
 			        </div> <!-- .row -->				        
 	        	</div> <!-- .container -->
 	        </section>	
-      		<section class="credit-footer background-dark">
-      			<div class="container-fluid">		        
+      		<section class="credit-footer background-dark">      					        
+				<div class="container">	
 					<div class="row">
 			        	<div class="col-sm-4">
 			        		<div class="pull-left footer-credits">		        			
