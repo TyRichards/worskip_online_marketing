@@ -14,11 +14,11 @@ Template Name: Features
 
 		  	</div>
 		</div>    
-		<div class="row">        
-			<div class="col-sm-4">
-				<img class="img-responsive product product-1" src="<?php echo get_template_directory_uri(); ?>/assets/images/devices-feature1.png" alt="Worship Online">   
+		<div class="row feature-row">        
+			<div class="col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0">
+				<img class="img-responsive product product-1" src="<?php echo get_template_directory_uri(); ?>/assets/images/devices-feature1-lg.png" alt="Worship Online">   
 			</div>         
-			<div class="col-sm-8 features">
+			<div class="col-sm-12 col-md-8 features">
 		  		<div class="row">            
 			  		<div class="features-boxes">
 						<div class="col-sm-6">
@@ -54,8 +54,8 @@ Template Name: Features
 		  	</div>		  	    
 		</div> <!-- .row -->
 
-		<div class="row">                
-			<div class="col-sm-8 features">
+		<div class="row feature-row">                
+			<div class="col-sm-12 col-md-8 features">
 		  		<div class="row">            
 			  		<div class="features-boxes" style="margin-top:50px;">
 						<div class="col-sm-6">
@@ -89,8 +89,8 @@ Template Name: Features
 			  		</div>						
 				</div>
 		  	</div>	
-			<div class="col-sm-4">
-				<img class="img-responsive product product-2" src="<?php echo get_template_directory_uri(); ?>/assets/images/devices-feature2.png" alt="Worship Online">     
+			<div class="col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0">
+				<img class="img-responsive product product-2" src="<?php echo get_template_directory_uri(); ?>/assets/images/devices-feature2-lg.png" alt="Worship Online">     
 			</div> 		  		  	    
 		</div> <!-- .row -->
 

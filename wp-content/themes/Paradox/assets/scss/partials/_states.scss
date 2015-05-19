@@ -43,7 +43,56 @@
     // #features4 { background: $body-bg url('../Paradox/assets/images/bg-performance-b.jpg') left 0px no-repeat fixed; }
     #features4 { background: $body-bg url('../Paradox/assets/images/bg-6.jpg') left 0px no-repeat fixed; }
 
-    
+    .masthead {
+        position: relative;
+        img.product {
+            display: inline-block;
+            position: absolute;
+            right: 10%;
+            margin-right: 0;
+            width: auto\9;
+            height: auto;
+            max-width: 100%;
+            vertical-align: middle;
+            border: 0;
+            -ms-interpolation-mode: bicubic;
+            top: 16px;
+            max-width: 820px!important;
+        }
+    }       
+
+    .feature-row {
+        position: relative;
+        div img.product-1 {
+            display: inline-block;
+            position: absolute;
+            right: 3%;
+            margin-right: 0;
+            width: auto\9;
+            height: auto;
+            max-width: 100%;
+            vertical-align: middle;
+            border: 0;
+            -ms-interpolation-mode: bicubic;
+            top: 16px;
+            max-width: 630px !important;
+        }
+        div img.product-2 {
+            display: inline-block;
+            position: absolute;
+            left: -4%;
+            margin-right: 0;
+            width: auto\9;
+            height: auto;
+            max-width: 100%;
+            vertical-align: middle;
+            border: 0;
+            -ms-interpolation-mode: bicubic;
+            top: 16px;
+            max-width: 650px !important;
+            margin-top: 30px!important;
+        }               
+    }             
 
     header .navbar-brand img {
         // width: 100%;
