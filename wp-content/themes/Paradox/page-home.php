@@ -11,7 +11,7 @@ Template Name: Home
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-6">
-                <img class="img-responsive product" src="<?php echo get_template_directory_uri(); ?>/assets/images/devices01.png" alt="Worship Online">
+                <img class="img-responsive product" src="<?php echo get_template_directory_uri(); ?>/assets/images/devices01-lg.png" alt="Worship Online">
             </div>
             <div class="col-sm-5 masthead-copy">
                 <h1 style="padding-top:60px;"><?php echo get_field('headline') ?></h1>

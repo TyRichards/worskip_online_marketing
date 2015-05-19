@@ -11541,44 +11541,49 @@ article .entry-title a {
 }
 
 /* line 857, ../scss/partials/_modules.scss */
+.product-2, .product-1 {
+  width: 100%;
+}
+
+/* line 861, ../scss/partials/_modules.scss */
 .page-template-page-features-php .product.product-1 {
   margin-top: -50px;
   margin-left: -15px;
   margin-bottom: 40px;
 }
 
-/* line 863, ../scss/partials/_modules.scss */
+/* line 867, ../scss/partials/_modules.scss */
 .page-template-page-features-php .product.product-2 {
   margin-top: 75px;
   margin-left: 15px;
   margin-bottom: 40px;
 }
 
-/* line 870, ../scss/partials/_modules.scss */
+/* line 874, ../scss/partials/_modules.scss */
 .page-template-page-features .body-content .block-first {
   padding-top: 0 !important;
 }
 
-/* line 875, ../scss/partials/_modules.scss */
+/* line 879, ../scss/partials/_modules.scss */
 .quotes {
   margin-top: 50px;
   margin-bottom: 30px;
 }
-/* line 878, ../scss/partials/_modules.scss */
+/* line 882, ../scss/partials/_modules.scss */
 .quotes p:first-child {
   margin-top: 0;
 }
 
-/* line 884, ../scss/partials/_modules.scss */
+/* line 888, ../scss/partials/_modules.scss */
 .plan-2 .panel-heading {
   background-color: #b700ba !important;
 }
-/* line 885, ../scss/partials/_modules.scss */
+/* line 889, ../scss/partials/_modules.scss */
 .plan-2 .call-to-action .btn, .plan-2 .call-to-action .gform_button, .plan-2 .call-to-action .archive .page-title, .archive .plan-2 .call-to-action .page-title, .plan-2 .call-to-action .more-link {
   background-color: #b700ba !important;
 }
 
-/* line 888, ../scss/partials/_modules.scss */
+/* line 892, ../scss/partials/_modules.scss */
 .plan input {
   text-align: center;
   border: none;
@@ -11589,12 +11594,12 @@ article .entry-title a {
   height: 30px;
   font-weight: bold;
 }
-/* line 897, ../scss/partials/_modules.scss */
+/* line 901, ../scss/partials/_modules.scss */
 .plan input::-webkit-input-placeholder {
   color: #b700ba;
   font-style: italic;
 }
-/* line 901, ../scss/partials/_modules.scss */
+/* line 905, ../scss/partials/_modules.scss */
 .plan input:focus {
   border-color: none;
   outline: 0;
@@ -11602,134 +11607,134 @@ article .entry-title a {
   box-shadow: none;
 }
 
-/* line 913, ../scss/partials/_modules.scss */
+/* line 917, ../scss/partials/_modules.scss */
 input:focus::-webkit-input-placeholder {
   color: transparent;
 }
 
-/* line 914, ../scss/partials/_modules.scss */
+/* line 918, ../scss/partials/_modules.scss */
 input:focus:-moz-placeholder {
   color: transparent;
 }
 
 /* FF 4-18 */
-/* line 915, ../scss/partials/_modules.scss */
+/* line 919, ../scss/partials/_modules.scss */
 input:focus::-moz-placeholder {
   color: transparent;
 }
 
 /* FF 19+ */
-/* line 916, ../scss/partials/_modules.scss */
+/* line 920, ../scss/partials/_modules.scss */
 input:focus:-ms-input-placeholder {
   color: transparent;
 }
 
-/* line 918, ../scss/partials/_modules.scss */
+/* line 922, ../scss/partials/_modules.scss */
 .panel-default {
   border: none;
   color: gray;
   background: transparent;
 }
-/* line 922, ../scss/partials/_modules.scss */
+/* line 926, ../scss/partials/_modules.scss */
 .panel-default .panel-heading {
   background-color: #6c006e;
   border-right: 1px solid #4E034F;
   border-bottom: none;
 }
-/* line 926, ../scss/partials/_modules.scss */
+/* line 930, ../scss/partials/_modules.scss */
 .panel-default .panel-heading h3 {
   margin-top: 15px;
   margin-bottom: 11px;
   font-size: 16px;
   text-transform: uppercase;
 }
-/* line 933, ../scss/partials/_modules.scss */
+/* line 937, ../scss/partials/_modules.scss */
 .panel-default .panel-body {
   background: #ffffff;
   border-right: 1px solid #eeeeee;
 }
-/* line 936, ../scss/partials/_modules.scss */
+/* line 940, ../scss/partials/_modules.scss */
 .panel-default .panel-body .price {
   color: #101010;
   font-size: 38px;
   margin-top: 10px;
 }
-/* line 940, ../scss/partials/_modules.scss */
+/* line 944, ../scss/partials/_modules.scss */
 .panel-default .panel-body .price span {
   font-size: 16px;
   vertical-align: 7px;
 }
-/* line 942, ../scss/partials/_modules.scss */
+/* line 946, ../scss/partials/_modules.scss */
 .panel-default .panel-body ul.features {
   list-style: none;
   padding-left: 0;
   margin-top: 18px;
 }
-/* line 946, ../scss/partials/_modules.scss */
+/* line 950, ../scss/partials/_modules.scss */
 .panel-default .panel-body ul.features li {
   border-bottom: 1px solid #cccccc;
   padding-top: 7px;
   padding-bottom: 7px;
 }
-/* line 950, ../scss/partials/_modules.scss */
+/* line 954, ../scss/partials/_modules.scss */
 .panel-default .panel-body ul.features li:first-child {
   border-top: 1px solid #cccccc;
 }
-/* line 953, ../scss/partials/_modules.scss */
+/* line 957, ../scss/partials/_modules.scss */
 .panel-default .panel-body .call-to-action .btn, .panel-default .panel-body .call-to-action .gform_button, .panel-default .panel-body .call-to-action .archive .page-title, .archive .panel-default .panel-body .call-to-action .page-title, .panel-default .panel-body .call-to-action .more-link {
   background-color: #6c006e;
 }
 
-/* line 958, ../scss/partials/_modules.scss */
+/* line 962, ../scss/partials/_modules.scss */
 .plan-desc .panel-default {
   color: #ffffff;
 }
-/* line 960, ../scss/partials/_modules.scss */
+/* line 964, ../scss/partials/_modules.scss */
 .plan-desc .panel-default .panel-heading {
   border: none;
 }
-/* line 962, ../scss/partials/_modules.scss */
+/* line 966, ../scss/partials/_modules.scss */
 .plan-desc .panel-default .panel-heading h3 {
   text-transform: none;
 }
-/* line 964, ../scss/partials/_modules.scss */
+/* line 968, ../scss/partials/_modules.scss */
 .plan-desc .panel-default .panel-body {
   border: none;
   font-size: 12px;
 }
-/* line 967, ../scss/partials/_modules.scss */
+/* line 971, ../scss/partials/_modules.scss */
 .plan-desc .panel-default .panel-body .price {
   font-size: inherit;
   color: #ffffff;
   line-height: 41px;
   border: none;
 }
-/* line 973, ../scss/partials/_modules.scss */
+/* line 977, ../scss/partials/_modules.scss */
 .plan-desc .panel-default .panel-body .features li {
   line-height: 31px;
   border: none;
 }
-/* line 976, ../scss/partials/_modules.scss */
+/* line 980, ../scss/partials/_modules.scss */
 .plan-desc .panel-default .panel-body .features li:first-child {
   border: none;
 }
 
-/* line 987, ../scss/partials/_modules.scss */
+/* line 991, ../scss/partials/_modules.scss */
 .features-boxes .box {
   padding-right: 20px;
   padding-left: 20px;
   padding-bottom: 70px;
 }
-/* line 991, ../scss/partials/_modules.scss */
+/* line 995, ../scss/partials/_modules.scss */
 .features-boxes .box h2 {
   font-size: 28px;
   margin-top: 0;
 }
-/* line 994, ../scss/partials/_modules.scss */
+/* line 998, ../scss/partials/_modules.scss */
 .features-boxes .box h2 i {
   color: #b700ba;
 }
-/* line 996, ../scss/partials/_modules.scss */
+/* line 1000, ../scss/partials/_modules.scss */
 .features-boxes .box p {
   font-size: 16px;
 }
