@@ -49,7 +49,7 @@ Template Name: Pricing
                             <li>&nbsp;</li>
                         </ul>
                         <div class="call-to-action">
-                            <a class="btn btn-primary btn-large btn-primary btn-block" href="http://app.worshiponline.com/trial">Start Free Trial</a>
+                            <a class="btn btn-primary btn-large btn-primary btn-block" href="http://app.worshiponline.com/signup">Start Free Trial</a>
                         </div> <!-- call-to-action -->         
                     </div> <!-- .panel-body -->
                 </div> <!-- .panel -->
@@ -71,7 +71,7 @@ Template Name: Pricing
                             <li><i class="fa fa-check"></i></li>
                         </ul>
                         <div class="call-to-action">
-                            <a class="btn btn-primary btn-large btn-primary btn-block" href="http://app.worshiponline.com/trial">Start Free Trial</a>
+                            <a class="btn btn-primary btn-large btn-primary btn-block" href="http://app.worshiponline.com/signup">Start Free Trial</a>
                         </div> <!-- call-to-action -->         
                     </div> <!-- .panel-body -->
                 </div> <!-- .panel -->
@@ -92,7 +92,7 @@ Template Name: Pricing
                             <li><i class="fa fa-check"></i></li>
                         </ul>
                         <div class="call-to-action">
-                            <a class="btn btn-primary btn-large btn-primary btn-block" href="http://app.worshiponline.com/trial">Start Free Trial</a>
+                            <a class="btn btn-primary btn-large btn-primary btn-block" href="http://app.worshiponline.com/signup">Start Free Trial</a>
                         </div> <!-- call-to-action -->         
                     </div> <!-- .panel-body -->
                 </div> <!-- .panel -->
@@ -113,7 +113,7 @@ Template Name: Pricing
                             <li><i class="fa fa-check"></i></li>
                         </ul>
                         <div class="call-to-action">
-                            <a class="btn btn-primary btn-large btn-primary btn-block" href="http://app.worshiponline.com/trial">Start Free Trial</a>
+                            <a class="btn btn-primary btn-large btn-primary btn-block" href="http://app.worshiponline.com/signup">Start Free Trial</a>
                         </div> <!-- call-to-action -->         
                     </div> <!-- .panel-body -->
                 </div> <!-- .panel -->
@@ -134,7 +134,7 @@ Template Name: Pricing
                             <li><i class="fa fa-check"></i></li>
                         </ul>
                         <div class="call-to-action">
-                            <a class="btn btn-primary btn-large btn-primary btn-block" href="http://app.worshiponline.com/trial">Start Free Trial</a>
+                            <a class="btn btn-primary btn-large btn-primary btn-block" href="http://app.worshiponline.com/signup">Start Free Trial</a>
                         </div> <!-- call-to-action -->         
                     </div> <!-- .panel-body -->
                 </div> <!-- .panel -->
