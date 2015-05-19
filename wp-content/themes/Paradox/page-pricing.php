@@ -148,15 +148,14 @@ Template Name: Pricing
         <hr />
         <div class="row">
             <div class="col-xs-4 quotes">
-                <p><i>"It’s like hiring a music director for only pennies a month."</i><br>— WO Customer</p>
-
+                <p><i>"It’s the cheapest most reliable music director we’ve ever hired!"</i><br>— Anna (Faith Church)</p>
             </div>
             <div class="col-xs-4 quotes">
-                <p><i>"I can’t explain the feeling when all of your musicians show up knowing the songs perfectly! You have to try it!"</i><br>— WO Customer</p>
+                <p><i>"I can’t explain the feeling when your musicians show up knowing the songs perfectly! Thank you!"</i><br>— Josiah (Valley Church)</p>
             </div>
             <div class="col-xs-4 quotes">
-                <p><i>“Me and the other guitar player are in perfect sync, I’m having more fun than ever, and the band is benefiting big time!"</i><br>— WO Customer</p>
-            </div>   
+                <p><i>“The other guitar player and I are in perfect sync, I’m having more fun because of it, and the band sounds great!"</i><br>— Clayton (FBB)</p>
+            </div>  
         </div>
     </div>
 </section>
