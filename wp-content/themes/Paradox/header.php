@@ -84,7 +84,7 @@
 						</div>						
 						<div class="collapse navbar-collapse navbar-primary-collapse">
 							<div class="btn-header">
-								<a class="btn btn-sm btn-primary navbar-btn navbar-right hidden-xs hidden-sm" href="http://worshiponline.herokuapp.com/users/sign_in" style="margin-left:10px;">
+								<a class="btn btn-sm btn-primary navbar-btn navbar-right hidden-xs hidden-sm" href="http://app.worshiponline.com/sign_in" style="margin-left:10px;">
 									Sign In
 								</a>  								
 								<a class="btn btn-sm btn-primary navbar-btn navbar-right hidden-xs hidden-sm" href="/pricing">
