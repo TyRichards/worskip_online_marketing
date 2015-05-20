@@ -21,7 +21,7 @@ Template Name: Home
                         <a href="http://app.worshiponline.com/demo" class="btn btn-clear btn-block">View Demo<i class="fa fa-play-circle fa-right"></i></a>
                     </div>                                              
                     <div class="col-md-6">
-                        <a href="#blip" class="btn btn-clear btn-block">Why Worship Online?<i class="fa fa-question-circle fa-right"></i></a>
+                        <a href="#blip" class="btn btn-clear btn-block">Take a Tour<i class="fa fa-question-circle fa-right"></i></a>
                     </div>                    
                     <div class="clearfix"></div>   
                     <div class="col-xs-12">                 

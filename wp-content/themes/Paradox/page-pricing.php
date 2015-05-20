@@ -11,7 +11,12 @@ Template Name: Pricing
         <div class="row">
             <div class="col-xs-12">
                 <h1 class="text-center title">Get a smoother rehearsal and a tighter band</h1>
-                <p class="text-center lead"><a class="lightbox" href="https://www.youtube.com/watch?v=TCo-Gbeq_bU"><i class="fa fa-youtube-play"></i> How do team plans work?</a></p>
+                <p class="text-center lead">
+<!--                     <a class="fancybox-iframe" href="http://worshiponline.wistia.com/medias/vcyn61mx0u?embedType=popover&popoverHeight=84&popoverWidth=150&videoWidth=640">
+                    </a> -->
+                    <a href="//fast.wistia.net/embed/iframe/vcyn61mx0u?popover=true" class="wistia-popover[height=388,playerColor=b700ba,width=640]"><i class="fa fa-youtube-play"></i> How do team plans work?</a>
+                    <script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/popover-v1.js"></script>
+                </p>
             </div>
         </div>
         <div class="row plan-row"> 

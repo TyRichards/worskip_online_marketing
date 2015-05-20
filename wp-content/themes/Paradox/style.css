@@ -11541,44 +11541,49 @@ article .entry-title a {
 }
 
 /* line 861, ../scss/partials/_modules.scss */
+div#wistia_grid_14_below {
+  background: black;
+}
+
+/* line 865, ../scss/partials/_modules.scss */
 .page-template-page-features-php .product.product-1 {
   margin-top: -50px;
   margin-left: -15px;
   margin-bottom: 40px;
 }
 
-/* line 867, ../scss/partials/_modules.scss */
+/* line 871, ../scss/partials/_modules.scss */
 .page-template-page-features-php .product.product-2 {
   margin-top: 75px;
   margin-left: 15px;
   margin-bottom: 40px;
 }
 
-/* line 874, ../scss/partials/_modules.scss */
+/* line 878, ../scss/partials/_modules.scss */
 .page-template-page-features .body-content .block-first {
   padding-top: 0 !important;
 }
 
-/* line 879, ../scss/partials/_modules.scss */
+/* line 883, ../scss/partials/_modules.scss */
 .quotes {
   margin-top: 50px;
   margin-bottom: 30px;
 }
-/* line 882, ../scss/partials/_modules.scss */
+/* line 886, ../scss/partials/_modules.scss */
 .quotes p:first-child {
   margin-top: 0;
 }
 
-/* line 888, ../scss/partials/_modules.scss */
+/* line 892, ../scss/partials/_modules.scss */
 .plan-2 .panel-heading {
   background-color: #b700ba !important;
 }
-/* line 889, ../scss/partials/_modules.scss */
+/* line 893, ../scss/partials/_modules.scss */
 .plan-2 .call-to-action .btn, .plan-2 .call-to-action .gform_button, .plan-2 .call-to-action .archive .page-title, .archive .plan-2 .call-to-action .page-title, .plan-2 .call-to-action .more-link {
   background-color: #b700ba !important;
 }
 
-/* line 892, ../scss/partials/_modules.scss */
+/* line 896, ../scss/partials/_modules.scss */
 .plan input {
   text-align: center;
   border: none;
@@ -11589,12 +11594,12 @@ article .entry-title a {
   height: 30px;
   font-weight: bold;
 }
-/* line 901, ../scss/partials/_modules.scss */
+/* line 905, ../scss/partials/_modules.scss */
 .plan input::-webkit-input-placeholder {
   color: #b700ba;
   font-style: italic;
 }
-/* line 905, ../scss/partials/_modules.scss */
+/* line 909, ../scss/partials/_modules.scss */
 .plan input:focus {
   border-color: none;
   outline: 0;
@@ -11602,134 +11607,134 @@ article .entry-title a {
   box-shadow: none;
 }
 
-/* line 917, ../scss/partials/_modules.scss */
+/* line 921, ../scss/partials/_modules.scss */
 input:focus::-webkit-input-placeholder {
   color: transparent;
 }
 
-/* line 918, ../scss/partials/_modules.scss */
+/* line 922, ../scss/partials/_modules.scss */
 input:focus:-moz-placeholder {
   color: transparent;
 }
 
 /* FF 4-18 */
-/* line 919, ../scss/partials/_modules.scss */
+/* line 923, ../scss/partials/_modules.scss */
 input:focus::-moz-placeholder {
   color: transparent;
 }
 
 /* FF 19+ */
-/* line 920, ../scss/partials/_modules.scss */
+/* line 924, ../scss/partials/_modules.scss */
 input:focus:-ms-input-placeholder {
   color: transparent;
 }
 
-/* line 922, ../scss/partials/_modules.scss */
+/* line 926, ../scss/partials/_modules.scss */
 .panel-default {
   border: none;
   color: gray;
   background: transparent;
 }
-/* line 926, ../scss/partials/_modules.scss */
+/* line 930, ../scss/partials/_modules.scss */
 .panel-default .panel-heading {
   background-color: #6c006e;
   border-right: 1px solid #4E034F;
   border-bottom: none;
 }
-/* line 930, ../scss/partials/_modules.scss */
+/* line 934, ../scss/partials/_modules.scss */
 .panel-default .panel-heading h3 {
   margin-top: 15px;
   margin-bottom: 11px;
   font-size: 16px;
   text-transform: uppercase;
 }
-/* line 937, ../scss/partials/_modules.scss */
+/* line 941, ../scss/partials/_modules.scss */
 .panel-default .panel-body {
   background: #ffffff;
   border-right: 1px solid #eeeeee;
 }
-/* line 940, ../scss/partials/_modules.scss */
+/* line 944, ../scss/partials/_modules.scss */
 .panel-default .panel-body .price {
   color: #101010;
   font-size: 38px;
   margin-top: 10px;
 }
-/* line 944, ../scss/partials/_modules.scss */
+/* line 948, ../scss/partials/_modules.scss */
 .panel-default .panel-body .price span {
   font-size: 16px;
   vertical-align: 7px;
 }
-/* line 946, ../scss/partials/_modules.scss */
+/* line 950, ../scss/partials/_modules.scss */
 .panel-default .panel-body ul.features {
   list-style: none;
   padding-left: 0;
   margin-top: 18px;
 }
-/* line 950, ../scss/partials/_modules.scss */
+/* line 954, ../scss/partials/_modules.scss */
 .panel-default .panel-body ul.features li {
   border-bottom: 1px solid #cccccc;
   padding-top: 7px;
   padding-bottom: 7px;
 }
-/* line 954, ../scss/partials/_modules.scss */
+/* line 958, ../scss/partials/_modules.scss */
 .panel-default .panel-body ul.features li:first-child {
   border-top: 1px solid #cccccc;
 }
-/* line 957, ../scss/partials/_modules.scss */
+/* line 961, ../scss/partials/_modules.scss */
 .panel-default .panel-body .call-to-action .btn, .panel-default .panel-body .call-to-action .gform_button, .panel-default .panel-body .call-to-action .archive .page-title, .archive .panel-default .panel-body .call-to-action .page-title, .panel-default .panel-body .call-to-action .more-link {
   background-color: #6c006e;
 }
 
-/* line 962, ../scss/partials/_modules.scss */
+/* line 966, ../scss/partials/_modules.scss */
 .plan-desc .panel-default {
   color: #ffffff;
 }
-/* line 964, ../scss/partials/_modules.scss */
+/* line 968, ../scss/partials/_modules.scss */
 .plan-desc .panel-default .panel-heading {
   border: none;
 }
-/* line 966, ../scss/partials/_modules.scss */
+/* line 970, ../scss/partials/_modules.scss */
 .plan-desc .panel-default .panel-heading h3 {
   text-transform: none;
 }
-/* line 968, ../scss/partials/_modules.scss */
+/* line 972, ../scss/partials/_modules.scss */
 .plan-desc .panel-default .panel-body {
   border: none;
   font-size: 12px;
 }
-/* line 971, ../scss/partials/_modules.scss */
+/* line 975, ../scss/partials/_modules.scss */
 .plan-desc .panel-default .panel-body .price {
   font-size: inherit;
   color: #ffffff;
   line-height: 41px;
   border: none;
 }
-/* line 977, ../scss/partials/_modules.scss */
+/* line 981, ../scss/partials/_modules.scss */
 .plan-desc .panel-default .panel-body .features li {
   line-height: 31px;
   border: none;
 }
-/* line 980, ../scss/partials/_modules.scss */
+/* line 984, ../scss/partials/_modules.scss */
 .plan-desc .panel-default .panel-body .features li:first-child {
   border: none;
 }
 
-/* line 991, ../scss/partials/_modules.scss */
+/* line 995, ../scss/partials/_modules.scss */
 .features-boxes .box {
   padding-right: 20px;
   padding-left: 20px;
   padding-bottom: 70px;
 }
-/* line 995, ../scss/partials/_modules.scss */
+/* line 999, ../scss/partials/_modules.scss */
 .features-boxes .box h2 {
   font-size: 28px;
   margin-top: 0;
 }
-/* line 998, ../scss/partials/_modules.scss */
+/* line 1002, ../scss/partials/_modules.scss */
 .features-boxes .box h2 i {
   color: #b700ba;
 }
-/* line 1000, ../scss/partials/_modules.scss */
+/* line 1004, ../scss/partials/_modules.scss */
 .features-boxes .box p {
   font-size: 16px;
 }
@@ -11798,8 +11803,8 @@ input:focus:-ms-input-placeholder {
     border: 0;
     -ms-interpolation-mode: bicubic;
     top: 16px;
-    max-width: 820px !important;
-    margin-top: 0 !important;
+    max-width: 700px !important;
+    margin-top: 20px !important;
   }
 
   /* line 65, ../scss/partials/_states.scss */
