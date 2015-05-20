@@ -109,7 +109,7 @@ Template Name: Features
 		</div> <!-- .row -->
 		
 
-		<div class="row">
+		<div class="row"> 
 		  	<section class="main-col col-sm-8 col-sm-offset-2 page-content">                
 			  	<div id="main" class="site-main" role="main">
 				  	<?php 
