@@ -119,7 +119,7 @@
 		<?php } ?>										
 				<div class="row">
 				    <div class="col-xs-6 call-to-action" style="padding-right:5px;">
-					    <a class="btn btn-sm btn-primary btn-block" style="padding-left:5px; padding-right: 5px;" href="http://worshiponline.com/pricing">				
+					    <a class="btn btn-sm btn-primary btn-block" style="padding-left:5px; padding-right: 5px;" href="/pricing">				
 					        Start Free Trial
 					    </a>
 				    </div>

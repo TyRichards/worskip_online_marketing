@@ -182,7 +182,7 @@ Template Name: Pricing
                 <p>
                     Whether you’re an individual musician, or a worship leader seeking to equip your team, we have the tools to excellently prepare you for worship.  With tutorials, lessons, chord/number charts, and tabs, you can master your setlist with ease!
                 </p>
-                <a href="#" class="btn btn-primary">
+                <a href="https://app.worshiponline.com/demo" class="btn btn-primary">
                     View Demo<i class="fa fa-play-circle fa-right"></i>
                 </a>               
             </div>            
