@@ -29,10 +29,10 @@ Template Name: Features
 						</div>
 						<div class="col-sm-6">
 				  			<div class="box">                      
-								<h2><i class="fa fa-check-square fa-left"></i> Bass Guitar &nbsp;<span class="label label-warning" style="font-size:17px;">NEW</span></h2>
-								<p>Quickly pickup the bass lines for each song. We even cover the technique needed for each part.</p>
+								<h2><i class="fa fa-play-circle fa-left"></i> High-Quality Video</h2>
+								<p>Quality matters when your team is trying to pick up a new song. Each video lesson is hi-res and well crafted.</p>
 				  			</div>    
-						</div>							
+						</div>
 			  		</div>
 				</div>
 				<div class="row">
@@ -48,7 +48,7 @@ Template Name: Features
 								<h2><i class="fa fa-check-square fa-left"></i> Electric Guitar</h2>
 								<p>Learn the electric guitar lead and rhythm parts for each song. We'll even go over the guitar effects that are used.</p>
 				  			</div>    
-						</div>					
+						</div>
 			  		</div>						
 				</div>
 		  	</div>		  	    
@@ -94,34 +94,18 @@ Template Name: Features
 			</div> 		  		  	    
 		</div> <!-- .row -->
 
-		<div class="row feature-row">                
-			<div class="col-sm-12 col-md-12 features">
-				<div class="row">            
-			  		<div class="features-boxes" style="margin-top:50px;">				
-						<div class="col-sm-4">
-				  			<div class="box">                      
-								<h2><i class="fa fa-play-circle fa-left"></i> High-Quality Video</h2>
-								<p>Quality matters when your team is trying to pick up a new song. Each video lesson is hi-res and well crafted.</p>
-				  			</div>    
-						</div>			
-						<div class="col-md-4 features">			  		
-						  	<div class="features-boxes">				
-								<div class="box">                      
-									<h2><i class="fa fa-thumbs-up fa-left"></i> 25+ Years Experience</h2>
-									<p>Not to mention, Worship Online is 100% created by musicians for musicians. We have a combined experience of over 25 years leading worship in the church. We have a long history of leading and playing multiple instruments including acoustic guitar, electric guitar, bass, keys and drums – so we know our stuff&nbsp;&nbsp;&nbsp;  ; )</p>
-								</div>
-							</div>   
-						</div> <!-- .col -->					
-						<div class="col-md-4 features">			  		
-						  	<div class="features-boxes">				
-								<div class="box">        						
-									<a href="/pricing" class="btn btn-lg btn-primary btn-block" style="margin-top:0">Start Your Free Trial<i class="fa fa-arrow-circle-right fa-right"></i></a>
-								</div>
-							</div>
-					  	</div> <!-- .col -->
+		<div class="row">
+			<div class="col-md-6 col-md-offset-3 features">		  		
+			  	<div class="features-boxes">				
+					<div class="box text-center">                      
+						<h2><i class="fa fa-thumbs-up fa-left"></i> 25+ Years Experience</h2>
+						<p>Not to mention, Worship Online is 100% created by musicians for musicians. We have a combined experience of over 25 years leading worship in the church. We have a long history of leading and playing multiple instruments including acoustic guitar, electric guitar, bass, keys and drums – so we know our stuff&nbsp;&nbsp;&nbsp;  ; )</p>
 					</div>
-				</div>
-			</div>
+				</div>                                                                                              
+			</div> <!-- .col -->
+			<div class="col-md-4 col-md-offset-4">
+				<a href="/pricing" class="btn btn-lg btn-primary btn-block" style="margin-top:0">Start Your Free Trial<i class="fa fa-arrow-circle-right fa-right"></i></a>
+		  	</div> <!-- .col -->
 		</div> <!-- .row -->
 		
 
