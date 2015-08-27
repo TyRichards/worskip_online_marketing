@@ -31,9 +31,9 @@ Template Name: Pricing
                             <li>Price Per Member</li>
                             <li>Total Members</li>
                             <li>Song Lessons</li>
-                            <li>Acoustic & Electric Parts</li>
+                            <li>Ac / Electric / Bass Parts</li>
                             <li>Charts & Tabs</li>
-                            <li>Share Song Lessons with Team</li>
+                            <li>Share Songs with Team</li>
                         </ul>
                     </div> <!-- .panel-body -->
                 </div> <!-- .panel -->

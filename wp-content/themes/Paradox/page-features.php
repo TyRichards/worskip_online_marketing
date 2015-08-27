@@ -39,16 +39,16 @@ Template Name: Features
 			  		<div class="features-boxes">
 						<div class="col-sm-6">
 				  			<div class="box">                      
-								<h2><i class="fa fa-check-square fa-left"></i> Acoustic Guitar</h2>
-								<p>Learn the acoustic parts exactly as they are on the recordings, with lessons for beginners or experts</p>
-				  			</div>               
+								<h2><i class="fa fa-check-square fa-left"></i> Acoustic & Electric Guitar</h2>
+								<p>Learn the electric guitar lead and rhythm parts for each song. We'll even go over the guitar effects that are used. Also we'll cover the acoustic parts exactly as they are on the record, with lessons for beginners or experts.</p>
+				  			</div>    
 						</div>
 						<div class="col-sm-6">
 				  			<div class="box">                      
-								<h2><i class="fa fa-check-square fa-left"></i> Electric Guitar</h2>
-								<p>Learn the electric guitar lead and rhythm parts for each song. We'll even go over the guitar effects that are used.</p>
-				  			</div>    
-						</div>
+								<h2><i class="fa fa-check-square fa-left"></i> Bass Guitar <span class="label label-warning" style="font-size: 14px;">NEW</span></h2>
+								<p>Learn the bass lines exactly how they are played on the original recordings. We'll even go over any special techniques with each song.</p>
+				  			</div>               
+						</div>						
 			  		</div>						
 				</div>
 		  	</div>		  	    
